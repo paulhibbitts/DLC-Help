@@ -5,8 +5,6 @@ taxonomy:
 child_type: docs
 ---
 
-### Chapter 1
+### Resources for
 
-# Basics
-
-Discover the **basic** principles
+# Faculty
