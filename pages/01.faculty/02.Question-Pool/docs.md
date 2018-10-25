@@ -1,9 +1,9 @@
 ---
-title: Add a Question Pool
+title: 'Add a Question Pool'
 taxonomy:
     category: docs
+visible: true
 ---
-
 
 #### Choose "+ a random question"
 
