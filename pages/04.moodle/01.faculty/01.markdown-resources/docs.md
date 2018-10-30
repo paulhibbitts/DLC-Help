@@ -1,5 +1,5 @@
 ---
-title: Writing in Markdown
+title: 'Writing in Markdown'
 taxonomy:
     category: docs
 ---

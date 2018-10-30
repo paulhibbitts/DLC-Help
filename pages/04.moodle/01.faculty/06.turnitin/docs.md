@@ -1,5 +1,5 @@
 ---
-title: 'Turnitin'
+title: Turnitin
 taxonomy:
     category: docs
 visible: true
