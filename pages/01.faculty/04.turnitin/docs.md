@@ -7,15 +7,18 @@ visible: true
 
 >>>>> _**Turnitin.com cannot and does not detect plagiarism.**_ It is a moderately effective tool that can be used as the basis for conversations between students and faculty about academic integrity.
 
-#### Remember: Always turn editing on.
+#### Turn editing on.
 
-Your next task is to add an activity or resource. ![](../.gitbook/assets/adding-documents-1-2.png)
+Click 'Add an activity or resource'.
+
+![](../.gitbook/assets/adding-documents-1-2.png)
 
 Choose Turnitin Assignment 2 from the Activity menu. Then click **Add**.
 
 ![](turnitin-1.png)
 
-#### Next, add details. There are many options to choose from, the most important settings are in General and Assignment Part 1, these important sections are marked by red exclamation marks.
+#### Add details.
+There are many options to choose from, the most important settings are in General and Assignment Part 1, these important sections are marked by red exclamation marks.
 
 ![](turnitin-2.png)
 
