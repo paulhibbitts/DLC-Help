@@ -4,8 +4,6 @@ taxonomy:
     category: docs
 ---
 
-### Chapter Number
+### Digital Learning Commons
 
-# Chapter Title
-
-Chapter description.
+# Documentation
