@@ -13,13 +13,13 @@ Your next task is to add an activity or resource. ![](../.gitbook/assets/adding-
 
 Choose Turnitin Assignment 2 from the Activity menu. Then click **Add**.
 
-![](turnitin-1%20%281%29.png)
+![](turnitin-1.png)
 
 #### Next, add details. There are many options to choose from, the most important settings are in General and Assignment Part 1, these important sections are marked by red exclamation marks.
 
-![](turnitin-2-1.png)
+![](turnitin-2.png)
 
-![](turnitin-3-1.png)
+![](turnitin-3.png)
 
 #### Other Settings in Turnitin.
 
@@ -29,4 +29,4 @@ You may set the parameters for your assignment dropbox using the following optio
 
 Once options are selected click **Save and return to course or display** to preview your drop box.
 
-![](turnitin-4%20%281%29.png)
+![](turnitin-4.png)
