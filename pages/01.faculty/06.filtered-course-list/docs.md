@@ -1,5 +1,5 @@
 ---
-title: 'Creating A Filtered Course List'
+title: 'Filtered Course List'
 taxonomy:
     category: docs
 visible: true
