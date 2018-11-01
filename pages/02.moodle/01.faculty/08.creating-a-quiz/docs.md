@@ -5,11 +5,11 @@ taxonomy:
 visible: true
 ---
 
-# Creating a Quiz
+
 
 Moodle 3 allows quizzes to be created within a course, instead of imported from an external source. Quizzes are a useful tool that can be utilized for many different purposes, and in many different formats. To learn more about how to create a quiz on MyCourses, follow this instructions below.
 
-## Part 1: Creating a Quiz
+#### Part 1: Creating a Quiz
 
 **Turn editing on** in the top right hand corner.
 
@@ -23,7 +23,7 @@ Supply a name for your quiz, and enter a description if you wish.
 
 ![](creating-quiz-2.png)
 
-## Other options to utilize.
+#### Other options to utilize.
 
 There are several options that can be utilized in the creation of your quiz. For example, the **Timing** options allow you to set a start and end date for quiz availability, as well as to set a time limit. The **Grade** options allow you to set a limit on allowed attempts.
 
@@ -39,7 +39,7 @@ Once you have adjusted the settings as desired, click **Save and display**.
 
 Remember that you can edit your quiz name and settings at any time by returning to the course home page, clicking on the **Edit** dropdown list next to your quiz, and selecting **Edit settings**.
 
-## Part 2: Adding Questions to a Quiz
+#### Part 2: Adding Questions to a Quiz
 
 In the top right hand corner select the settings gear for its drop down menu, select **Edit quiz**. This will take you to your **Quiz bank**.
 
@@ -57,7 +57,7 @@ students have to type in the exact answer that you have created in order to be g
 
 ![](creating-quiz-6.png)
 
-## Once you have selected your option. \(Our example uses the True/False Question\)
+#### Once you have selected your option. \(Our example uses the True/False Question\)
 
 Once you have selected a question type, you will be redirected to the question creation page for that specific question.
 
@@ -69,13 +69,13 @@ Provide text for your question, such as:
 
 ![](creating-quiz-7.png)
 
-## Give your question a point value by typing in the "Default points" box.
+#### Give your question a point value by typing in the "Default points" box.
 
 You can choose to provide general feedback to students which will be displayed once they have completed the question.
 
 ![](creating-quiz-8.png)
 
-## \*For creating a Multiple Choice Question\*
+#### \*For creating a Multiple Choice Question\*
 
 ![](creating-quiz-9.png)
 
@@ -85,7 +85,7 @@ The "Feedback" box allows you to provide feedback to a particular question if de
 
 ![](creating-quiz-10.png)
 
-## Once you have completed entering the information for your question "Save changes".
+#### Once you have completed entering the information for your question "Save changes".
 
 ![](creating-quiz-11.png)
 
