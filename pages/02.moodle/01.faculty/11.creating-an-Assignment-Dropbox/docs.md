@@ -37,7 +37,7 @@ You can change the maximum grade to align with your marking rubric.
 
 You may also add the assignment to the appropriate 'Grade category' using the dropdown menu.
 
-![](add-assignment-4.png)
+![](add-assignments-4.png)
 
 #### Other options for your assignment dropbox.
 
