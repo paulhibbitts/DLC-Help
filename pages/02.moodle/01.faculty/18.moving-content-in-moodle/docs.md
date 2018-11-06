@@ -27,7 +27,3 @@ You can now arrange content across various tabs. Simply select the content you w
 ##### Yea, we know, who knew?
 
 ##### Content can now be placed anywhere within the course.
-
-Congrats!!! You are now feel free to move about the cabin.
-
-![](freedom.jpg)
