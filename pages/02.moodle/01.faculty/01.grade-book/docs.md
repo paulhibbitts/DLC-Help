@@ -4,6 +4,6 @@ taxonomy:
     category: docs
 ---
 
-### Chapter 2
+### Changes in the
 
 # Grade Book
