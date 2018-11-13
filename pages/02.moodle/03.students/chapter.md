@@ -5,6 +5,6 @@ taxonomy:
 child_type: docs
 ---
 
-### Chapter 3
+### Resources for
 
 # Students
