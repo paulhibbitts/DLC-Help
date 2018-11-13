@@ -12,11 +12,11 @@ This provides you the option of hiding or showing certain elements on the user r
 
 ![](user-report-1.png)
 
-### Select 'Grades' then 'Course Grade Settings' from the drop down menu.
+#### Select 'Grades' then 'Course Grade Settings' from the drop down menu.
 
 ![](user-report-2.png)
 
-### So, you've found the page.
+#### So, you've found the page.
 
 The following are the details on what each section on this page can assist you to do.
 
@@ -35,6 +35,6 @@ The following are the details on what each section on this page can assist you t
 
 ![](user-report-5.png)
 
-### Once you've chosen your settings feel free to Save Changes.
+#### Once you've chosen your settings feel free to Save Changes.
 
 You can always take a look again at how each user will see their grade report by going back to User Report from the drop down menu on the top left hand corner of the page.
