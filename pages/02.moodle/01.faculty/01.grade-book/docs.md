@@ -1,5 +1,5 @@
 ---
-title: 'Grade Book'
+title: Grade Book
 taxonomy:
     category: docs
 ---
