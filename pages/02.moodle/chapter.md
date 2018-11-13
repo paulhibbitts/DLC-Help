@@ -4,8 +4,6 @@ taxonomy:
     category: docs
 ---
 
-### Chapter Number
+### A Guide for
 
-# Chapter Title
-
-Chapter description.
+# Moodle
