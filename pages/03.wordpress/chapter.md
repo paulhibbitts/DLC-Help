@@ -4,8 +4,6 @@ taxonomy:
     category: docs
 ---
 
-### Chapter Number
+### Chapter 4
 
-# Chapter Title
-
-Chapter description.
+# WordPress
