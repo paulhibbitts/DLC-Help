@@ -1,5 +1,5 @@
 ---
-title: 'What's New to Moodle'
+title: 'Whats New to Moodle'
 taxonomy:
     category: docs
 ---
