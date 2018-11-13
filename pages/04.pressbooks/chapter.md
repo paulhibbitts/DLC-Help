@@ -4,8 +4,6 @@ taxonomy:
     category: docs
 ---
 
-### Chapter Number
+### Chapter 5
 
-# Chapter Title
-
-Chapter description.
+# PressBooks
