@@ -18,7 +18,7 @@ Select an item, then 'Edit Settings'.
 
 Open the item's settings, scroll to 'Parent Category' part of the settings, then check the box for 'Extra Credit'.
 
-![](adding-credit-2%20%281%29.png)
+![](adding-credit-2.png)
 
 #### Thats it!
 
