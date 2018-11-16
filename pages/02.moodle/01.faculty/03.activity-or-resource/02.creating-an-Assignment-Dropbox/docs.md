@@ -40,10 +40,11 @@ Then click "**Add**" at the bottom of the window.
 
 You can change the maximum grade to align with your marking rubric.
 
+>>>>> If you want to edit the maximum grade later, you must do it from the assignment, not 'Gradebook settings'.
+
 Optional: You may also add the assignment to the appropriate 'Grade category' using the dropdown menu.
 
->>>>> - You can change the grade category later in 'Gradebook settings'.
-- If you want to edit the maximum grade later, you must do it from the assignment, not 'Gradebook settings'.
+>>>>> You can change the grade category later in 'Gradebook settings'.
 
 ![](add-assignments-4.png)
 
