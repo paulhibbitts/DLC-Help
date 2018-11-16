@@ -33,12 +33,11 @@ Then click "**Add**" at the bottom of the window.
 
 ![](add-assignment-2.png)
 
-![](add-assignment-3.png)
+#### Click the 'Grade' toggle to edit the maximum grade.
 
+>>>> If your assignment is graded on a Pass/Fail basis, choose 'Scale' for the 'Type', then use the 'Fail/Pass' scale.
 
-#### Edit the 'Grade' settings.
-
-You can change the maximum grade to align with your marking rubric.
+Change the maximum grade to align with your marking rubric.
 
 >>>>> If you want to edit the maximum grade later, you must do it from the assignment, not 'Gradebook settings'.
 
@@ -52,8 +51,8 @@ Optional: You may also add the assignment to the appropriate 'Grade category' us
 
 You may set the parameters for your assignment dropbox using the following options. You can set the due date and cut off date, submission type, add the max grade and assign it to a category in your gradebook, etc.
 
+![](add-assignment-5.png)
+
 >>>> You must select a time from the 24 hour clock, it is often convenient to make an assignment due at 23:55, or 11:55PM, on the date that it is due to avoid due date mix ups for students.
 
 Once options are selected click **Save and return to course or display** to preview your drop box.
-
-![](add-assignment-5.png)
