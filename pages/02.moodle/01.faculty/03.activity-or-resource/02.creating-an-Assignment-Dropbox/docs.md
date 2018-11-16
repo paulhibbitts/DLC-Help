@@ -44,6 +44,7 @@ Optional: You may also add the assignment to the appropriate 'Grade category' us
 
 >>>>> You can change the grade category later in 'Gradebook settings'.
 
+
 >>>>> If you want to edit the maximum grade later, you must do it from the assignment, not 'Gradebook settings'.
 
 ![](add-assignments-4.png)
