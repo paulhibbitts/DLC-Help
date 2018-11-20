@@ -1,5 +1,5 @@
 ---
-title: 'Importing Content From A Previous Cohort'
+title: 'Importing Content From a Previous Cohort'
 taxonomy:
     category: docs
 ---
