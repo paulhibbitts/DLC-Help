@@ -1,5 +1,5 @@
 ---
-title: 'Setting Up User Report Display'
+title: 'User Report Display'
 taxonomy:
     category: docs
 ---
