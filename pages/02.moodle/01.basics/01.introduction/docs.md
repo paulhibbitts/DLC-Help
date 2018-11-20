@@ -1,5 +1,5 @@
 ---
-title: Introduction and Log-In
+title: Introduction and Login
 taxonomy:
     category: docs
 child_type: docs
@@ -9,8 +9,11 @@ Moodle is a web platform that allows students and faculty to access a common, se
 
 Moodle is one component of TWU's Digital Learning Commons, which also includes [WordPress](https://create.twu.ca), [PressBooks](https://books.twu.ca), and other platforms maintained by individual faculty.
 
-### Access [learn.twu.ca](https://github.com/TWUOnline/moodlehelp/tree/21e853f28b2980f7d4c11acb9e92def97f8dc388/general/learn.twu.ca) and enter your TWUPass credentials
 
-### The next window should give you access to your courses on your Dashboard.
+##### Login
+
+Access [learn.twu.ca](https://github.com/TWUOnline/moodlehelp/tree/21e853f28b2980f7d4c11acb9e92def97f8dc388/general/learn.twu.ca) and enter your TWUPass credentials
+
+The next window should give you access to your courses on your Dashboard.
 
 ![](dashboard.png)
