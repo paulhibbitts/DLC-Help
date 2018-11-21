@@ -1,5 +1,5 @@
 ---
-title: 'Overview'
+title: 'Set-Up'
 taxonomy:
     category: docs
 ---
