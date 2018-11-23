@@ -1,5 +1,5 @@
 ---
-title: 'Course Loacation'
+title: 'Course Location'
 taxonomy:
     category: docs
 ---
