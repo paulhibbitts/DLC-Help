@@ -9,7 +9,7 @@ A system like Moodle is not helpful if nobody knows how to use it, so we have cr
 
 * If you can't find your answers here, [create a ticket.](https://trinitywestern.teamdynamix.com/TDClient/Requests/ServiceCatalog?CategoryID=5436)
 * Send an email to [elearning@twu.ca](https://github.com/TWUOnline/moodlehelp/tree/1e5e390e28e31e7d5d492bca740f1e7d4e5fcf54/general/elearning@twu.ca).
-* Drop by the Extension office in NW during business hours and speak to one of our e-Support Facilitators.
+* Drop by the Extension office in NW during business hours and speak to one of our Academic Technology Ambassadors.
 
 #### For Further Assistance
 
