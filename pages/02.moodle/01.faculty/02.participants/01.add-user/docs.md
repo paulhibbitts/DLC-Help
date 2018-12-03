@@ -31,20 +31,19 @@ No other users can enrol other users.
 
 NOTE: We cannot create accounts for users who are not members of the TWU Community.
 
-#### Select the 'Users' option in your Administration block, then select the 'Enrolled Users' option.
+#### Select 'Participants' in your Drawer, then select the 'Enrol Users' option.
 
-Note: Your Administration block maybe located on the right hand side of your page or it maybe docked on the left side, so location may vary for you the user :-\).
 
 ![](adding-a-user-1.png)
 
-#### Click 'Enrol Users'
+#### Use the search box to find the user and choose a role from the dropdown menu.
 
 ![](adding-a-user-2.png)
 
-#### Choose a role from the dropdown menu and use the search box to find the user.
-
 You may desire to add further stipulation to the user's enrollment.
 
-#### Click 'Enrol' once the user has been added.
+#### Click 'Enrol users' once the user has been added.
 
 ![](adding-a-user-3.png)
+
+test
