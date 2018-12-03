@@ -1,7 +1,8 @@
 ---
 title: 'Add a User'
 taxonomy:
-    category: docs
+    category:
+        - docs
 visible: true
 ---
 
