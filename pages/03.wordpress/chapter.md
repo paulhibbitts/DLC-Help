@@ -7,3 +7,5 @@ taxonomy:
 ### Chapter 4
 
 # WordPress
+
+...soon!
