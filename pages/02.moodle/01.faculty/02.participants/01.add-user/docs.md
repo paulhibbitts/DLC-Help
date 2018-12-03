@@ -44,3 +44,5 @@ You may desire to add further stipulation to the user's enrollment.
 #### Click 'Enrol users' once the user has been added.
 
 ![](adding-a-user-3.png)
+
+test
