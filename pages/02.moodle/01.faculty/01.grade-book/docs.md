@@ -25,11 +25,3 @@ On your course page, on the left menu select **Grades**.
 There are two views that a most important to be aware of, Gradebook Setup and Grader Reporter.
 
 ![](gradebook-overview-2.png) ![](gradebook-overview-3.png)
-
-#### To Access additional instructions on Gradebook Setup and Grader Report
-
-Select the following links:
-
-[Gradebook Setup](https://twonline.gitbook.io/moodlefaq/gradebook/gradebook-setup)
-
-[Grader Report](https://twonline.gitbook.io/moodlefaq/gradebook/grader-report)
