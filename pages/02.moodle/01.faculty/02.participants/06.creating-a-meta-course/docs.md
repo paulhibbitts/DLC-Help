@@ -39,7 +39,7 @@ You can now see the new users that have been added, now that you have completed 
 
 ##### So, you've made a meta course...
 
-Now that your meta-course is created, students can see the meta-course and the respective courses connected to it. To help everyone avoid confusion seeing multiple courses we encourage you to follow the next instruction. Below is a screen shot of what students will see.
+Now that your meta-course is created, students can see the meta-course and the respective courses connected to it. To help everyone avoid confusion seeing multiple courses we encourage you to follow the next instruction. 
 
 #### As a final step, you should hide the child courses to avoid confusion.
 
