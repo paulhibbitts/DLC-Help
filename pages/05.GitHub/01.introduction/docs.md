@@ -12,6 +12,6 @@ child_type: docs
   - Make sure you choose a free plan.
 - To complete the sign-up process, you will need to [verify your email address](https://help.github.com/articles/verifying-your-email-address/).
 
-### Watch *GitHub for Poets 1.1*
+#### Watch *GitHub for Poets 1.1*
 
 [plugin:youtube](https://youtu.be/BCQHnlnPusY)
