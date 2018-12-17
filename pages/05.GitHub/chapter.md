@@ -1,5 +1,5 @@
 ---
-title: PressBooks
+title: GitHub
 taxonomy:
     category: docs
 ---
