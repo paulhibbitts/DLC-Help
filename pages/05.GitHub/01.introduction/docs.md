@@ -5,6 +5,10 @@ taxonomy:
 child_type: docs
 ---
 
+### About
+
+[plugin:youtube](https://youtu.be/BCQHnlnPusY)
+
 ### Sign Up
 
 -  Go to [GitHub.com](https://github.com) and fill in the 'Sign-up' details. Keep in mind that you may choose to sign up anonymously if you are concerned about your privacy.
