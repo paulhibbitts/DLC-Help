@@ -37,6 +37,8 @@ If you choose 'Next', you can navigate which items you want to import from the c
 
 Don't forget to update your syllabus and assignment dues dates!
 
+---
+
 You may want to hide your newly populated course from students. To do that:
 
 #### Click the 'Actions' icon, and choose 'Edit settings'.
