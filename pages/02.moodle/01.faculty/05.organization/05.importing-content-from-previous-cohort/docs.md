@@ -35,4 +35,14 @@ If you choose 'Next', you can navigate which items you want to import from the c
 
 ![](import-content-7.png)
 
-Don't forget to update your syllabus and assignment dues dates! Happy Surfing!
+Don't forget to update your syllabus and assignment dues dates!
+
+You may want to hide your newly populated course from students. To do that:
+
+#### Click the 'Actions' icon, and choose 'Edit settings'.
+![](hide-course-1.png)
+
+#### Change the course visibility to 'Hide'.
+Then scroll to the bottom of the page and click 'Save and display'.
+
+![](hide-course-2.png)
