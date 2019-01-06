@@ -12,7 +12,7 @@ When editing anything in Moodle be sure to 'Turn Editing On'. Moving items in se
 
 Moving across tabs is a bit different.
 
-#### With editing on, scroll to the bottom of the page to 'Tab Edition Utilities', and Disable 'Asynchronous edit actions'.
+#### With editing on, scroll to the bottom of the page to 'Tabs edition utilities', and 'Disable Asynchronous edit actions'.
 
 ![](reordering-content-3.png)
 
@@ -26,12 +26,12 @@ You can now arrange content across various tabs. Simply select the content you w
 
 ---
 
-### Moving a whole tab.
+### Moving a whole tab
 
 - Select the tab you want to move.
-
-- Click 'Tab edition utilities'
-
+- Click 'Tabs edition utilities'
 - Click on the link of the tab adjacent to where you want to move the tab you selected.
 
 ![](reordering-content-6.png)
+
+If you want to move 'Topic 10' to be after 'Topic 1' then click 'Topic 1' in the list.
