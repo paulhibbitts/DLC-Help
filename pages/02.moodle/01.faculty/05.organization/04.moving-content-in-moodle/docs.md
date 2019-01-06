@@ -10,9 +10,9 @@ When editing anything in Moodle be sure to 'Turn Editing On'. Moving items in se
 
 ![](reordering-content-1.png)
 
-##### Moving cross-tabs is a bit different.
+Moving across tabs is a bit different.
 
-If your course format is in 'Onetopic' you will need to adjust the Tab utilities function at the bottom of the page. With editing turn on, scroll to the bottom of the page to 'Tab Edition Utilities' function, and Disable 'Asynchronous edit actions'.
+#### With editing on, scroll to the bottom of the page to 'Tab Edition Utilities', and Disable 'Asynchronous edit actions'.
 
 ![](reordering-content-3.png)
 
@@ -24,6 +24,14 @@ You can now arrange content across various tabs. Simply select the content you w
 
 ![](reordering-content-5.png)
 
-##### Yea, we know, who knew?
+---
 
-##### Content can now be placed anywhere within the course.
+### Moving a whole tab.
+
+- Select the tab you want to move.
+
+- Click 'Tab edition utilities'
+
+- Click on the link of the tab adjacent to where you want to move the tab you selected.
+
+![](reordering-content-6.png)
