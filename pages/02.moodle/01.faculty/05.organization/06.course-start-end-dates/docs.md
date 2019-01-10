@@ -7,25 +7,19 @@ taxonomy:
 
 The start and end dates affect which courses are in the "Future", "Past", and "In Process" tabs on Moodle.
 
-##### To do this, go into the course and click on the gear in the top right corner.
-##### From the drop down menu, click "Edit Settings."
+##### Click on the gear in the top right corner and click "Edit Settings."
 
 ![](start-end.png)
 
-##### Then, there is a section for Course Start Date and Course End Date.
+##### Edit the end date.
 
 ![](start-end-dates.png)
 
-##### The start date will be set automatically to the first of the month prior to the beginning of class.
-
-As the instructor, you will have access to the course as soon as the course is created, about 6 weeks before the end of the previous semester.
-
-##### Courses are set to be current for 120 days which will cover a full semester plus the exam period.
-
-Students can still access the course in the 'Past' tab on their Moodle Dashboard after the course has ended.
-
-
+##### Click Save and Display.
 
 ![](start-end-save.png)
 
-##### Click Save and Display after you have set the dates.
+- The start date will be set automatically to the first of the month prior to the beginning of class.
+- As the instructor, you will have access to the course as soon as the course is created, about 6 weeks before the end of the previous semester.
+- Courses are set to be current for 120 days which will cover a full semester plus the exam period.
+- Students can still access the course in the 'Past' tab on their Moodle Dashboard after the course has ended.
