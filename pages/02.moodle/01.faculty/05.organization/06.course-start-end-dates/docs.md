@@ -3,7 +3,6 @@ title: 'Changing the Course Start and End Dates'
 taxonomy:
     category: docs
 ---
-#### As instructors, you are given access and editing abilities for course start and end dates.
 
 The start and end dates affect which courses are in the "Future", "Past", and "In Process" tabs on Moodle.
 
