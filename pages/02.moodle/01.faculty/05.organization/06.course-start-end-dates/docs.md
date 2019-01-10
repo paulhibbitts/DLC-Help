@@ -3,7 +3,10 @@ title: 'Changing the Course Start and End Dates'
 taxonomy:
     category: docs
 ---
-#### As Professors, you are given access and editing abilities for course start and end dates.
+#### As instructors, you are given access and editing abilities for course start and end dates.
+
+The start and end dates affect which courses are in the "Future", "Past", and "In Process" tabs on Moodle.
+
 ##### To do this, go into the course and click on the gear in the top right corner.
 ##### From the drop down menu, click "Edit Settings."
 
@@ -13,9 +16,15 @@ taxonomy:
 
 ![](start-end-dates.png)
 
-##### Our suggestion is that you set the date one week prior to the actual start date.
-##### The course should be set to end within a month of the actual class.
-##### This affects which courses are in the "Future", "Past", and "In Process" tabs on Moodle.
+##### The start date will be set automatically to the first of the month prior to the beginning of class.
+
+As the instructor, you will have access to the course as soon as the course is created, about 6 weeks before the end of the previous semester.
+
+##### Courses are set to be current for 120 days which will cover a full semester plus the exam period.
+
+Students can still access the course in the 'Past' tab on their Moodle Dashboard after the course has ended.
+
+
 
 ![](start-end-save.png)
 
