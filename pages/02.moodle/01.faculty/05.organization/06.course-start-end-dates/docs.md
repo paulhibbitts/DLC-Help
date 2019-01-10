@@ -11,7 +11,7 @@ taxonomy:
 
 ##### Then, there is a section for Course Start Date and Course End Date.
 
-![](start-end-time.png)
+![](start-end-dates.png)
 
 ##### Our suggestion is that you set the date one week prior to the actual start date.
 ##### The course should be set to end within a month of the end of the actual class.
@@ -19,4 +19,4 @@ taxonomy:
 
 ##### Click Save and Display after you have set the dates.
 
-![](start-end-Save.png)
+![](start-end-save.png)
