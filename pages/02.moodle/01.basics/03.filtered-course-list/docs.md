@@ -25,4 +25,11 @@ Moodle users have the option of creating a filtered course list to show a conden
 
 #### Change the line that reads
 
-`shortname | exp | My courses | (FA17)` to `shortname | exp | My courses | (SP19)` (in future semesters, use the abbreviation for the current semester)
+`shortname | exp | My courses | (FA17)` to `shortname | exp | Spring 2019 | (SP19)` (in future semesters, use the abbreviation for the current semester)
+
+#### Click 'Save changes'.
+
+
+!!!!! Other options:
+- Add a second line of code that reads `shortname | collapsed | Upcoming | (SU19)` to show your courses for the upcoming semester, but collapsed under a toggle.
+-
