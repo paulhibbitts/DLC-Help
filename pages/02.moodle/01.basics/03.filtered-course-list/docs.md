@@ -30,6 +30,6 @@ Moodle users have the option of creating a filtered course list to show a conden
 #### Click 'Save changes'.
 
 
-!!!!! Other options:
+!!!! Other options:
 - Add a second line of code that reads `shortname | collapsed | Upcoming | (SU19)` to show your courses for the upcoming semester, but collapsed under a toggle.
 -
