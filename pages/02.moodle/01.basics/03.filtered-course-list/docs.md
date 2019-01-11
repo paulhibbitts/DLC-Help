@@ -22,3 +22,7 @@ Moodle users have the option of creating a filtered course list to show a conden
 #### Click the gear icon in the block and choose 'Configure...'
 
 ![](filter-4.png)
+
+#### Change the line that reads
+
+`shortname | exp | My courses | (FA17)` to `shortname | exp | My courses | (SP19)` (in future semesters, use the abbreviation for the current semester)
