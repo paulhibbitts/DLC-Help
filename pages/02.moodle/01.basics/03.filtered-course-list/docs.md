@@ -27,10 +27,14 @@ Moodle users have the option of creating a filtered course list to show a conden
 
 `shortname | exp | My courses | (FA17)` to `shortname | exp | Spring 2019 | (SP19)` (in future semesters, use the abbreviation for the current semester)
 
+![](filter-5.png)
+
 !!!! Optional: Add a second line of code that reads `shortname | collapsed | Upcoming | (SU19)` to show your courses for the upcoming semester, but collapsed under a toggle.
 
 #### Click 'Save changes'.
 
 #### Use the 4-way arrows to drag the block to the main section of the page.
+
+![](filter-6.png)
 
 !!!! You can now safely delete the 'Course overview' block.
