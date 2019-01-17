@@ -1,7 +1,5 @@
 ---
 title: Internal
-taxonomy:
-    category: docs
 visible: false
 ---
 
