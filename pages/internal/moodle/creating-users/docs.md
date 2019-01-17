@@ -1,8 +1,8 @@
 ---
 title: 'Creating Users'
 taxonomy:
-    category:
-        - docs
+      category: docs
+    child_type: docs
 ---
 
 ### Click 'Site Administration'
