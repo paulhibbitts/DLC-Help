@@ -2,6 +2,7 @@
 title: Internal
 taxonomy:
     category: docs
+visible: false
 ---
 
 ### Academic Technology Ambassadors'
