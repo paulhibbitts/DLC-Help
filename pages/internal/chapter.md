@@ -2,6 +2,7 @@
 title: Internal
 taxonomy:
     category: docs
+routable: false
 visible: false
 ---
 
