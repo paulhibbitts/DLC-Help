@@ -1,10 +1,8 @@
 ---
 title: Internal
-taxonomy:
-    category: docs
-routable: true
 visible: false
 ---
+
 
 ### Academic Technology Ambassadors'
 
