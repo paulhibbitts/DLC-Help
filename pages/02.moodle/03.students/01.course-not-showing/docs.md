@@ -27,4 +27,4 @@ There are several reasons why your course might not be showing in Moodle.
 
 You may also have multiple pages, be sure to look for additional pages on your 'Courses' tab.
 
-[plugin:content-inject](moodle/basics/course-not-showing)
+[plugin:content-inject](pages/02.moodle/01.basics/04.course-not-showing)
