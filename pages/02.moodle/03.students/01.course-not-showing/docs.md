@@ -21,7 +21,7 @@ There are several reasons why your course might not be showing in Moodle.
   1. Scroll to the bottom of courses listed, scroll through other pages
   2. Have a look through your 'Past', 'Future' 'In Process' tabs.
 
-     **NOTE: There has been some changes with this one, as your new Dashboard is divided into a number of tabs such 'Timeline', 'Courses', 'Future', 'In Progress' and 'Past'. Your new Dashboard should resemble the picture below.**
+!!! NOTE: There has been some changes with this one, as your new Dashboard is divided into a number of tabs such 'Timeline', 'Courses', 'Future', 'In Progress' and 'Past'. Your new Dashboard should resemble the picture below.**
 
 ![](dashboard.png)
 
