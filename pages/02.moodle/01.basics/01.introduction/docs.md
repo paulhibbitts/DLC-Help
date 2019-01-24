@@ -14,6 +14,8 @@ Moodle is one component of TWU's Digital Learning Commons, which also includes [
 #### Login
 Go to [learn.twu.ca](https://learn.twu.ca) and enter your TWUPass credentials.
 
+![](twu-pass-1.png)
+
 The next window should give you access to your courses on your Dashboard.
 
 ![](dashboard.png)
