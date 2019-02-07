@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 child_type: docs
 ---
-If you instructor has required you to use Turnitin to submit assignments, you can find their feedback following these instructions.
+If your instructor has required you to use Turnitin to submit assignments, you can find their feedback following these instructions.
 
 #### Click the link to the assignment.
 
