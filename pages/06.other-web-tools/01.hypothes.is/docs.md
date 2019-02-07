@@ -62,3 +62,4 @@ Hypothes.is is a very light-weight web service and browser extension that you ca
 Happy annotating! See you on the web!
 
 !!! [Click here if you'd like to learn more about using Hypothes.is in your class room.](https://web.hypothes.is/education/)
+t
