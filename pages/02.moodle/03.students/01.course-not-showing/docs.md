@@ -8,4 +8,4 @@ page-inject:
 ---
 
 
-[plugin:content-inject](moodle/basics/course-not-showing/)
+[plugin:content-inject](/moodle/basics/course-not-showing/)
