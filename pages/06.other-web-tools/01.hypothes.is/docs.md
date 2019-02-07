@@ -40,7 +40,7 @@ Hypothes.is is a very light-weight web service and browser extension that you ca
 
 ##### Sign in to the bookmarklet.
 
-
+![](hypothes-is-5.png)
 
 ##### Select any text on the webpage, and click 'Annotate'.
 
