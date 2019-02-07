@@ -15,7 +15,8 @@ Hypothes.is is a very light-weight web service and browser extension that you ca
 
 ##### Enter a username, email address (this does not have to be your TWU address), and password.
 ##### Click the checkbox to indicate that you agree to the linked policies.
-!! ...or don't, but then you won't be able to use hypothes.is. If you would like to protect your identity online, you may choose a pseudonym rather than your real name.
+!! ...or don't, but then you won't be able to use hypothes.is. If you would like to protect your identity online, you may choose a pseudonym rather than your real name, or speak with your instructor about an alternative assignment.
+
 ##### Click 'Sign up'.
 
 ![](hypothes-is-2.png)
