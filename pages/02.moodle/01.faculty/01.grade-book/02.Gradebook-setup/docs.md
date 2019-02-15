@@ -68,20 +68,25 @@ In the image below, you can see that we've added an 'Assignments' category plus 
 
 >>>>> The assignment weights currently add up to 100%. Do not adjust the weights just yet!
 
-
-
 #### 3b. Add _all_ of your manual grade items.
 
 A manual grade item is an assessment that students do not submit through Moodle. It may be an exam grade, or participation, or maybe an in-class presentation.
 
 ##### Scroll to the bottom of the page and click 'Add Grade Item'.
 
+![](gradebook-setup-10.png)
+
 * **Give the item a name,**
 * **adjust the Maximum grade as necessary,**
 * **add the item to the proper category,**
 * **click 'Save changes'.**
 
+![](gradebook-setup-11.png)
+![](gradebook-setup-12.png)
+
 Now, I have added another category for mid-term exams with two midterms, and a Final Exam. Again, notice the weights are not correct, but Moodle has adjusted them to total 100.
+
+![](gradebook-setup-9.png)
 
 #### 4. Adjust 'Category' weights.
 
@@ -89,17 +94,19 @@ Select the checkboxes for each of the categories and individual manual grade ite
 
 Set the weights to _exactly_ match your syllabus and total 100.
 
-Note that Moodle will _always_ adjust these weights to total 100.
+>>>>> Moodle will _always_ adjust these weights to total 100.
 
-![](screen-shot-2018-01-17-at-11.44.01-am.png)
+![](gradebook-setup-13.png)
 
 #### Adjust grade items _within_ each category.
 
 In the example above, the three assignments are weighted within the category according to their 'Max Grade'. To change that, select the checkboxes beside each of them and change their individual weights to total 100.
 
-![](screen-shot-2018-01-17-at-11.51.47-am.png)
+In the example below, I have weighted each of the assignments '1'. This will ensure that the assignments are weighted evenly.
 
-**The Max grade must be altered in the grade item's settings on the course page. Max grades cannot be altered in Gradebook or grade item Setup**
+![](gradebook-setup-14.png)
+
+>>>> The Max grade must be altered in the grade item's settings on the course page. Max grades cannot be altered in Gradebook or grade item Setup
 
 ##### If you add graded items to your gradebook after you have set it up, you will need to adjust the weights again.
 
