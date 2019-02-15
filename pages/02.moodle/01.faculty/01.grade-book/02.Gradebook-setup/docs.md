@@ -84,7 +84,7 @@ A manual grade item is an assessment that students do not submit through Moodle.
 ![](gradebook-setup-11.png)
 ![](gradebook-setup-12.png)
 
-Now, I have added another category for mid-term exams with two midterms, and a Final Exam. Again, notice the weights are not correct, but Moodle has adjusted them to total 100.
+Now, I have added another category for midterm exams with two midterms, and a Final Exam. Again, notice the weights are not correct, but Moodle has adjusted them to total 100.
 
 ![](gradebook-setup-9.png)
 
@@ -102,7 +102,7 @@ Set the weights to _exactly_ match your syllabus and total 100.
 
 In the example above, the three assignments are weighted within the category according to their 'Max Grade'. To change that, select the checkboxes beside each of them and change their individual weights to total 100.
 
-In the example below, I have weighted each of the assignments '1'. This will ensure that the assignments are weighted evenly.
+In the example below, I have weighted each of the assignments '1'. This will ensure that an odd number of assignments are weighted evenly.
 
 ![](gradebook-setup-14.png)
 
