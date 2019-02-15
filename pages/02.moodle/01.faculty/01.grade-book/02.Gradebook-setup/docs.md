@@ -64,11 +64,11 @@ Creating an 'Assignment' in Moodle does several things:
 
 In the image below, you can see that we've added an 'Assignments' category plus two assignment dropboxes in the course.
 
-![](gradebook-setup-8.png)
+
 
 >>>>> The assignment weights currently add up to 100%. Do not adjust the weights just yet!
 
-![](gradebook-setup-9.png)
+
 
 #### 3b. Add _all_ of your manual grade items.
 
