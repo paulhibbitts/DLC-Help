@@ -29,7 +29,7 @@ Users with the following roles can add users to Moodle courses.
 
 No other users can enrol other users.
 
-!!! We cannot create accounts for users who are not members of the TWU Community.
+>>>>> We cannot create accounts for users who are not members of the TWU Community.
 
 #### Select 'Participants' in your Drawer, then select the 'Enrol Users' option.
 

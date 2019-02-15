@@ -53,7 +53,7 @@ Creating an 'Assignment' in Moodle does several things:
 * it provides a grading workflow for you;
 * it creates a column in your gradebook
 
-##### Please see the article '[Creating an Assignment Dropbox](https://twonline.gitbooks.io/moodlefaq/content/creating-an-assignment-dropbox.html)' for instructions.
+##### Please see the article '[Creating an Assignment Dropbox](http://create.twu.ca/help/moodle/faculty/activity-or-resource/creating-an-assignment-dropbox)' for instructions.
 
 In the image below, you can see that we've added an 'Assignments' category plus three assignment dropboxes in the course.
 
