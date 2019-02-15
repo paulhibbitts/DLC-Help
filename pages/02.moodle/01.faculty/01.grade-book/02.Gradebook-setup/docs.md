@@ -33,7 +33,7 @@ Change the Aggregation method to 'Natural'.
 
 ##### At the bottom of your Gradebook Setup page, select **Add Category**.
 
-![](gradebook-setup-5.png)
+![](gradebook-setup-10.png)
 
 Enter a name for the category, such as 'Assignments', or 'Quizzes' or choose a category appropriate for your needs.
 
