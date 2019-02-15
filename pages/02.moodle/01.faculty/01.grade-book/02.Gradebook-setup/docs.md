@@ -17,15 +17,15 @@ Click the Actions menu (gear in the top, right corner) and choose 'Gradebook set
 
 ![](gradebook-setup-1.png)
 
-##### On your course menu page, select 'Gradebook Setup'.
+In the top row of the gradebook setup screen under 'Actions' \(it should display the name of your course\), select 'Edit', then 'Edit Settings'.
 
 ![](gradebook-setup-3.png)
 
-###### In the top row of the gradebook setup screen under 'Actions' \(it should display the name of your course\), select 'Edit', then 'Edit Settings'.
+Change the Aggregation method to 'Natural'.
+
+>>>>> Moodle has deprecated the use of other aggregation methods such as 'Weighted mean of grades'. The method we will describe here will allow you to weight your Moodle gradebook in alignment with your course syllabus.
 
 ![](gradebook-setup-4.png)
-
-Be mindful that aggregation is Natural. You have several options to exclude empty grades, chose the grade display type, etc. Once you have selected on the desired settings, scroll to the bottom of the page, and click 'Save Changes'.
 
 **If you have categories already in your course, you may need to set them to 'Natural' as well.**
 
