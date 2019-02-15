@@ -17,9 +17,9 @@ Click the Actions menu (gear in the top, right corner) and choose 'Gradebook set
 
 ![](gradebook-setup-1.png)
 
-In the top row of the gradebook setup screen under 'Actions' \(it should display the name of your course\), select 'Edit', then 'Edit Settings'.
+In the top row of the gradebook setup screen under 'Actions', select 'Edit', then 'Edit Settings'.
 
-![](gradebook-setup-3.png)
+![](gradebook-setup-2.png)
 
 Change the Aggregation method to 'Natural'.
 
@@ -27,15 +27,17 @@ Change the Aggregation method to 'Natural'.
 
 ![](gradebook-setup-4.png)
 
-**If you have categories already in your course, you may need to set them to 'Natural' as well.**
+>>>>> If you have categories already in your course, you may need to set them to 'Natural' as well.
 
 #### 2.  Create Your Categories
 
-##### At the bottom of your Gradebook Setup page you can select **Add Category**.
+##### At the bottom of your Gradebook Setup page, select **Add Category**.
 
 ![](gradebook-setup-5.png)
 
 Enter a name for the category, such as 'Assignments', or 'Quizzes' or choose a category appropriate for your needs.
+
+![](gradebook-setup-6.png)
 
 _Do not_ create categories for single items in your course such as a final exam or participation grade.
 
@@ -44,7 +46,10 @@ _Do not_ create categories for single items in your course such as a final exam 
 
 Click **Save Changes**
 
+![](gradebook-setup-7.png)
+
 **Be sure to repeat these steps if you need to create more categories in alignment with your syllabus.**
+
 
 #### 3a. Add _all_ of your Assignments.
 
