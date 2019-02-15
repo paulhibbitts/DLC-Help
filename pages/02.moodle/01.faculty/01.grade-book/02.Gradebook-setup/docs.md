@@ -13,6 +13,8 @@ There are four key steps to setting up your gradebook in Moodle.
 
 #### 1. Make sure your aggregation method is set to 'Natural'
 
+1. Click the Actions menu (gear in the top, right corner) and choose 'Gradebook setup'.
+
 ![](gradebook-setup-1.png)
 
 ##### On your course menu page, select 'Gradebook Setup'.
