@@ -16,7 +16,7 @@ Go to [learn.twu.ca](https://learn.twu.ca) and enter your TWUPass credentials.
 
 ![](twu-pass-1.png)
 
-!!! If you don't know your TWU Pass username or password, click 'Forgot your Username or Password?' on the right side of the sign-in window.
+! If you don't know your TWU Pass username or password, click 'Forgot your Username or Password?' on the right side of the sign-in window.
 
 The first page you see in Moodle will be your Dashboard showing all of your current courses.
 
