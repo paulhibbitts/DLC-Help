@@ -5,13 +5,13 @@ taxonomy:
 visible: true
 ---
 
->>>>> _**Turnitin.com cannot and does not detect plagiarism.**_ It is a moderately effective tool that can be used as the basis for conversations between students and faculty about academic integrity.
+>>>>> _**Turnitin.com cannot and does not detect plagiarism.**_ It is, at best, a moderately effective tool that can be used as the basis for conversations between students and faculty about academic integrity.
 
 #### Turn editing on.
 
 Click 'Add an activity or resource'.
 
-![](../.gitbook/assets/adding-documents-1-2.png)
+![](adding-documents-1.png)
 
 Choose Turnitin Assignment 2 from the Activity menu. Then click **Add**.
 
