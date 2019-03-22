@@ -2,6 +2,7 @@
 title: 'Grade an Assignment'
 taxonomy:
     category: docs
+visible: false
 ---
 
 #### 1. Click the assignment link.
