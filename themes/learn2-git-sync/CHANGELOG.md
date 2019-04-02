@@ -1,3 +1,22 @@
+# v1.3.2
+## 03/22/2019
+
+1. [](#new)
+    * Set Dependency of Grav 1.5.10+ which has support for new **Deferred Block** Twig extension
+    * Implement assets rendering using **Deferred Block** Twig extension
+
+# v1.3.1
+## 03/10/2019
+
+1. [](#bugfix)
+    * Restored needed 'RocketTheme\Toolbox\Event\Event;' instance
+
+# v1.3.0
+## 03/10/2019
+
+1. [](#new)
+    * Added taxonomy 'tag' to default TNTSearch index
+
 # v1.2.3
 ## 11/23/2018
 
