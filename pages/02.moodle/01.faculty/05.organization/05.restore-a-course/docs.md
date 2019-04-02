@@ -64,15 +64,3 @@ You can use this `Backup and Restore` process to overwrite the contents of a cou
 
 
 ! Don't forget to update your syllabus and assignment dues dates!
-
----
-
-You may want to hide your newly populated course from students. To do that:
-
-#### Click the 'Actions' icon, and choose 'Edit settings'.
-![](hide-course-1.png)
-
-#### Change the course visibility to 'Hide'.
-Then scroll to the bottom of the page and click 'Save and display'.
-
-![](hide-course-2.png)
