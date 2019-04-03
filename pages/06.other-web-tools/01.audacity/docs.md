@@ -28,7 +28,9 @@ Now that you have experienced the basics of recording and sharing audio, it's ti
 
 > Some things to notice when listening to audio are the pacing (think of how they are equivalent of paragraphs in sound), the use of background music, the varying of volume, sound effects, ambient/environmental sounds, the introduction of radio “bumpers” to remind us of the show, introduction and exits. Try to tune into the layering of sounds, how audio can create a sense of place by being more than just a recording, but a deliberate stacking of audio layers.
 
-What sets some podcasts apart from others is the degree of production that goes into the final product. For some insight into how high quality podcasts are produced, listen to [this episode](https://transom.org/2012/dissecting-joanne-rosser-papermaker/) from HowSound (16m 17s), a podcast about producing podcasts. With that information in mind, while you listen to audio content on the radio or in a podcast, pay attention to the techniques that the producers used to tell their story. Here is an example of how the absence of sound can provide a significant emotional cue in an audio recording. [Pay attention at around the 3-minute mark.](https://create.twu.ca/orientation/ted-radio-hour-audio-demo/) For some of the best examples of audio storytelling, check out a few episodes of [The Truth podcast](http://www.thetruthpodcast.com/). The episodes are short (~20min or less) and are described as 'movies for your ears'. Listen in a quiet place where you will be able to become immersed in the soundscapes of the story. For best results, use headphones. Sometimes sounds can be used to completely change the character of video, as below.
+What sets some podcasts apart from others is the degree of production that goes into the final product. For some insight into how high quality podcasts are produced, listen to [this episode](https://transom.org/2012/dissecting-joanne-rosser-papermaker/) from HowSound (16m 17s), a podcast about producing podcasts. With that information in mind, while you listen to audio content on the radio or in a podcast, pay attention to the techniques that the producers used to tell their story. Here is an example of how the absence of sound can provide a significant emotional cue in an audio recording. [Pay attention at around the 3-minute mark.](https://create.twu.ca/orientation/ted-radio-hour-audio-demo/) For some of the best examples of audio storytelling, check out a few episodes of [The Truth podcast](http://www.thetruthpodcast.com/). The episodes are short (~20min or less) and are described as 'movies for your ears'. Listen in a quiet place where you will be able to become immersed in the soundscapes of the story. For best results, use headphones.
+
+Sometimes sounds can be used to completely change the character of video, as below.
 
 [plugin:youtube](https://youtu.be/azhgpelu0vY)
 
@@ -41,9 +43,8 @@ Audacity is a free and open-source audio editing program that allows you to crea
 *   Alan Levine ([@cogdog](https://twitter.com/cogdog) from The You Show) has created a couple of video tutorials on how to get started with creating and editing audio using Audacity. You can find a [14 min screencast here](https://www.youtube.com/watch?v=gXfVKSx7WtY), or a [40 minute presentation recording here](https://www.youtube.com/watch?v=cTw9ZwL0CTA).
 *   Practice recording and exporting audio with Audacity.
 
-###### A note about GarageBand
 
-If you are using a Mac computer, you likely have access to GarageBand, which will work quite nicely for these activities, but we will focus these instructions on Audacity.
+! If you are using a Mac computer, you likely have access to GarageBand, which will work quite nicely for these activities, but we will focus these instructions on Audacity.
 
 ---
 
@@ -78,4 +79,4 @@ Here is one such example done for a [school project](https://www.youtube.com/wat
 
 And you can find <a href="http://assignments.ds106.us/assignments/sound-effects-story/">many more as responses to the DS106 Sound Effects Story assignment</a>.
 
-Upload your final audio (exported as MP3) to [SoundCloud](http://soundcloud.com) and then you can embed the sounds just by pasting it's SoundCloud URL into a blank line of your editor (other blog platforms can use the SoundCloud HTML embed code).
+Upload your final audio (exported as MP3) to [SoundCloud](http://soundcloud.com) and then you can embed the sounds just by pasting it's SoundCloud URL into a blank line of your editor in Moodle or WordPress (other blog platforms can use the SoundCloud HTML embed code).
