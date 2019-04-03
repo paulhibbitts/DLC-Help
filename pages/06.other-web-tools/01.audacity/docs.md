@@ -18,11 +18,9 @@ Take a few minutes to download the app, or go to the site on your computer, and 
 Create an account at Soundcloud and record or upload a clip.
 3. [TapeWrite](https://tapewrite.com/tapes/top) is yet another free-with-pro-options. Record a clip and let us know what you think about the app.
 
-##### Sharing Audio
+### Sharing Audio
 
-Once you have created and uploaded audio clips in anchor.fm and SoundCloud share them in a new post on your blog and include some thoughts on the process. Was the app easy to use? Are you satisfied with the recording? What might you do differently next time? Was it easy to share from the app into your blog? Did you discover how to embed SoundCloud files?  
-
-
+Once you have created and uploaded audio clips in anchor.fm and SoundCloud share them in a new post on your blog or in Moodle and include some thoughts on the process. Was the app easy to use? Are you satisfied with the recording? What might you do differently next time? Was it easy to share from the app into your blog? Did you discover how to embed SoundCloud files?  
 
 ### Editing Audio
 
@@ -32,9 +30,7 @@ Now that you have experienced the basics of recording and sharing audio, it's ti
 
 What sets some podcasts apart from others is the degree of production that goes into the final product. For some insight into how high quality podcasts are produced, listen to [this episode](https://transom.org/2012/dissecting-joanne-rosser-papermaker/) from HowSound (16m 17s), a podcast about producing podcasts. With that information in mind, while you listen to audio content on the radio or in a podcast, pay attention to the techniques that the producers used to tell their story. Here is an example of how the absence of sound can provide a significant emotional cue in an audio recording. [Pay attention at around the 3-minute mark.](https://create.twu.ca/orientation/ted-radio-hour-audio-demo/) For some of the best examples of audio storytelling, check out a few episodes of [The Truth podcast](http://www.thetruthpodcast.com/). The episodes are short (~20min or less) and are described as 'movies for your ears'. Listen in a quiet place where you will be able to become immersed in the soundscapes of the story. For best results, use headphones. Sometimes sounds can be used to completely change the character of video, as below.
 
-> Star Wars, but all of the light saber sounds are Owen Wilson saying "wow" [pic.twitter.com/t5Yll0AV4h](https://t.co/t5Yll0AV4h)
->
-> — Josh Billinson (@jbillinson) [July 14, 2017](https://twitter.com/jbillinson/status/885981744620589056)
+[plugin:youtube](https://youtu.be/azhgpelu0vY)
 
 ##### Audacity Editing App
 
