@@ -13,14 +13,10 @@ We will recommend that you sign up for some different web services in order to h
 ##### Audio Apps
 
 1.  [Anchor.fm](https://anchor.fm) is a free smartphone app for either iOS or Android (you can also upload from your computer) that allows users to quickly and easily record, upload, and share audio files. Keep in mind that 'ease-of-use' often means 'limited options', and this is certainly the case with anchor.fm. There is very little that you can do to edit your recordings after the fact, so you may have to record multiple times.
-
 Take a few minutes to download the app, or go to the site on your computer, and listen to some of the recordings that are posted there, then record a clip or two yourself.
-
-2\. [Soundcloud](https://soundcloud.com/) is another free (with a paid 'Pro' option) service that allows you to record and upload audio files. One advantage of SoundCloud is that it is extremely easy to embed a file in WordPress. All you need to do is copy/paste the URL from your uploaded file into its own line in a WordPress post or page, and WordPress will automatically display a SoundCloud player and embed the file into your post.
-
+2. [Soundcloud](https://soundcloud.com/) is another free (with a paid 'Pro' option) service that allows you to record and upload audio files. One advantage of SoundCloud is that it is extremely easy to embed a file in WordPress. All you need to do is copy/paste the URL from your uploaded file into its own line in a WordPress post or page, and WordPress will automatically display a SoundCloud player and embed the file into your post.
 Create an account at Soundcloud and record or upload a clip.
-
-3\. [TapeWrite](https://tapewrite.com/tapes/top) is yet another free-with-pro-options. Record a clip and let us know what you think about the app.
+3. [TapeWrite](https://tapewrite.com/tapes/top) is yet another free-with-pro-options. Record a clip and let us know what you think about the app.
 
 ##### Sharing Audio
 
