@@ -7,4 +7,4 @@ child_type: docs
 
 ### All Your
 
-# Basic Moodle Info
+# Basic Wordpress Info

@@ -1,25 +1,31 @@
 ---
-title: Introduction and Login
+title: WordPress Guide
 taxonomy:
     category: docs
 child_type: docs
 ---
 
-#### About
-Moodle is a web platform that allows students and faculty to access a common, secure space to interact in the context of a particular course. Faculty are able to create or upload resources related to the course, distribute information about assignments and supplementary course materials, create and manage quizzes, and host conversations in the forums. Students are able to contact their faculty and each other, submit assignments, respond to discussion prompts, and complete quizzes.
 
-Moodle is one component of TWU's Digital Learning Commons, which also includes [WordPress](https://create.twu.ca), [PressBooks](https://books.twu.ca), and other platforms maintained by individual faculty.
+WordPress Guide
 
+Your E-Portfolio site is built in WordPress and hosted for you by Trinity Western University. If you have never used this platform before or if you have experience with it, the information below will provide some basics on the features you will use the most.
 
-#### Login
-Go to [learn.twu.ca](https://learn.twu.ca) and enter your TWUPass credentials.
+Once you are logged in to the administration side of your E-Portfolio, each screen has a relevant set of tips and reference links available from the Help tab in the upper right.
 
-![](twu-pass-1.png)
+Animation showing location of WordPress help tab
+Guide Sections
 
-!!!! If you don't know your TWU Pass username or password, click 'Forgot your Username or Password?' on the right side of the sign-in window.
+    Understanding Your Dashboard
+    Creating a Menu
+    Themes
+    Posts and Pages
+    Media Library
+    Widgets
+    Plugins
 
-The first page you see in Moodle will be your Dashboard showing all of your current courses.
+More Resources
 
-![](dashboard.png)
-
-!!! [Click here] if you don't see a course that you think you should see.
+    Beginner’s Guide for WordPress (WP Beginner)
+    First Steps with WordPress (WordPress Codex)
+    Learn WordPress (Tutorials Point)
+    WordPress Glossary (WP Glossary)
