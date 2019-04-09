@@ -7,4 +7,4 @@ child_type: docs
 
 ### All Your
 
-# Basic Wordpress Info
+# Basic WordPress Info
