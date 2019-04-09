@@ -1,5 +1,5 @@
 ---
-title: Posts and Pages
+title: Themes
 taxonomy:
     category: docs
 child_type: docs
