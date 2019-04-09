@@ -4,8 +4,6 @@ taxonomy:
     category: docs
 child_type: docs
 ---
-Understanding Your Dashboard
-============================
 
 The dashboard is the initial area you see when you log in to TWU Create. It's the center for your site management and where you create content. From the Dashboard you can navigate to content, settings, themes, plugins, and more.
 
