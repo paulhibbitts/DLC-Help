@@ -1,10 +1,10 @@
 ---
-title: Basics
+title: Block Editor
 taxonomy:
     category: docs
 child_type: docs
 ---
 
-### All Your
+### How To Use The
 
-# Basic WordPress Info
+# WordPress Block Editor
