@@ -1,39 +1,18 @@
 ---
-title: Add Blocks
+title: Create Different Columns
 taxonomy:
     category: docs
 child_type: docs
 ---
 
+The block editor includes a feature that allows you to create different columns. All you need to do is to add the **Columns** block from the **Layout Elements** category.
 
-In order to add new blocks to your post, click the +Plus icon and select the type of block you wish to add. Blocks will be divided into sections, at the top you will find the **Most Used** blocks:
+![](columns.png)
 
-![](most-used.png)
+You can also insert other blocks inside it.
 
-If you scroll down, you will see the different sections in which blocks are categorized:
+![](blocks-on-columns.PNG)
 
-![](other-blocks.png)
+You can increase or reduce the number of columns by changing the block settings
 
-- **Inline Elements** - Inline image
-
-![](inline-image.PNG)
-
-- **Common blocks** - Paragraph, Cover, Image, Heading, Gallery, Audio, List, Quote, FIle, Video.
-
-![](common-blocks.PNG)
-
-- **Formatting** - Code, Classic Editor, Custom HTML, Preformatted, Pullquote, Table, Verse.
-
-![](formatting.PNG)
-
-- **Layout Elements** - Button, Columns, Media & Text, Page Break, Separator, Spacer, More.
-
-![](layout-elements.PNG)
-
-- **Widgets** - Short Code, Archives, Categories, Latest Comments, Latest Posts.
-
-![](Widgets.PNG)
-
-- **Embeds** - Embed content from Youtube, Spotify, Facebook, Twitter, Instagram, etc.
-
-![](embed.PNG)
+![](add-more-columns.png)
