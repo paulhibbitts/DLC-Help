@@ -16,24 +16,24 @@ If you scroll down, you will see the different sections in which blocks are cate
 
 - **Inline Elements** - Inline image
 
-![](inline image.png)
+![](inline image.PNG)
 
 - **Common blocks** - Paragraph, Cover, Image, Heading, Gallery, Audio, List, Quote, FIle, Video.
 
-![](common blocks.png)
+![](common blocks.PNG)
 
 - **Formatting** - Code, Classic Editor, Custom HTML, Preformatted, Pullquote, Table, Verse.
 
-![](formatting.png)
+![](formatting.PNG)
 
 - **Layout Elements** - Button, Columns, Media & Text, Page Break, Separator, Spacer, More.
 
-![](layout elements.png)
+![](layout elements.PNG)
 
 - **Widgets** - Short Code, Archives, Categories, Latest Comments, Latest Posts.
 
-![](Widgets.png)
+![](Widgets.PNG)
 
 - **Embeds** - Embed content from Youtube, Spotify, Facebook, Twitter, Instagram, etc.
 
-![](embed.png)
+![](embed.PNG)
