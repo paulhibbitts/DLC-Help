@@ -5,7 +5,7 @@ taxonomy:
 child_type: docs
 ---
 
-Your old content will not disappear! However, the experience is a little bid different. The block editor will put all the old content into a single **Classic Block**. The Classic block is basically the old TinyMCE editor, but embedded inside the new editor.
+Your old content will not disappear! However, the experience is a little bit different. The block editor will put all the old content into a single **Classic Block**. The Classic block is basically the old TinyMCE editor, but embedded inside the new editor.
 
 ![](oldpost.PNG)
 
