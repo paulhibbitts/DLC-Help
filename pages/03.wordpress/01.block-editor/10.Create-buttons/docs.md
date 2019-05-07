@@ -18,3 +18,5 @@ You can also change the background color and text color in the **Block settings*
 ![](button-color.png)
 
 Also, you can change its shape by clicking the **Change block type** icon, and selecting your preferred shape.
+
+![](buttonshape.png)
