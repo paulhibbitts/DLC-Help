@@ -7,11 +7,11 @@ child_type: docs
 
 You can add buttons to your posts and pages. Click on the **+** icon to add a new block and select **Button** from the **Layout Elements** category.
 
-![](buttontext.png)
+![](buttontext.PNG)
 
 Add text and enter the URL to link your button to another page, post or website.
 
-![](button-url.png)
+![](button-url.PNG)
 
 You can also change the background color and text color in the **Block settings** tab.
 
