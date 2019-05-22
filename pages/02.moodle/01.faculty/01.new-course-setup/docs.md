@@ -7,8 +7,6 @@ child_type: docs
 
 ### Hello, and welcome to your new course site.
 
-
-
 ! Your course is visible to you as the instructor, but it is hidden from students. When you are ready, you will need to click the gear in the top, right corner, choose 'Edit settings', and choose 'Show' beside 'Course visibility', then 'Save and display'.
 Need help?
 
