@@ -1,5 +1,5 @@
 ---
-title: New Course Setup
+title: 'New Course Setup'
 taxonomy:
     category: docs
 child_type: docs
