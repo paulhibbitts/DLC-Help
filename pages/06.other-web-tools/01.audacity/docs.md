@@ -1,9 +1,12 @@
 ---
 title: Audacity
 taxonomy:
-    category: docs
+    category:
+        - docs
 child_type: docs
+visible: true
 ---
+
 One way for you to personalize your site or add variety to your assignments is to record audio. This might seem a little more advanced than photography, but once you have played around for a while, it will become much easier. These activities are intended to provide a brief overview of recording and sharing audio files. We will highlight 3 great audio apps and also briefly introduce you to [Audacity](http://www.audacityteam.org/), an open source audio editing tool.
 
 ##### Privacy Note
