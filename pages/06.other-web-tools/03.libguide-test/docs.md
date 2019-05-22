@@ -13,6 +13,7 @@ springStats.saConfig = springStats.saConfig || {
     tracking_server_host: "libguides-proc-ca.springyaws.com"
 };
 </script>
+
 <script async  src="//lgapi-ca.libapps.com//web/js/sa.min.js?3116"></script><script>
 springshare_widget_config_1558552174448 = { path: 'assets' };
 </script>
