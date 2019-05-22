@@ -1,6 +1,6 @@
 ---
-title: 'Quizzes'
+title: 'Organizing Your Courses'
 taxonomy:
     category: docs
-child_type: docs
 ---
+

@@ -1,9 +1,10 @@
 ---
-title: Grade Book
+title: 'Grade Book'
 taxonomy:
     category: docs
 child_type: docs
 ---
+
 The Moodle Gradebook is a valuable but complex tool. Because of its complexity, we recommend that instructors set up a Gradebook training session for a personalized tutorial. This is especially important for first time users. You can set up an appointment by creating a ticket at the [Helpdesk](https://www.twu.ca/help) or by sending an email to elearning@twu.ca.
 
 #### Basic Details

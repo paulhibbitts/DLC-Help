@@ -1,8 +1,10 @@
 ---
-title: Show or Hide your Course
+title: 'Show or Hide your Course'
 taxonomy:
-    category: docs
+    category:
+        - docs
 child_type: docs
+visible: true
 ---
 
 As of the summer 2019 semester, all new courses created in Moodle are hidden from students. This allows faculty opportunity to confirm course lists and revise the course as needed for the new semester.
