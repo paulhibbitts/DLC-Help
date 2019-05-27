@@ -1,5 +1,5 @@
 ---
-title: Sign Up to PressBooks
+title: Themes
 taxonomy:
     category: docs
 child_type: docs

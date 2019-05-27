@@ -1,5 +1,5 @@
 ---
-title: Sign Up to PressBooks
+title: Add tables
 taxonomy:
     category: docs
 child_type: docs
