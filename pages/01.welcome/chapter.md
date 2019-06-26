@@ -6,7 +6,7 @@ taxonomy:
 
 ### Digital Learning Commons
 
-# Documentation
+## Documentation
 
 Tap on a topic in the left-hand menu.
 
