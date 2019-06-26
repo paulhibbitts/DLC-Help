@@ -14,3 +14,5 @@ This is a sample page.
 [Linkk text](https://www.twu.ca)
 
 ![](dashboard.png)
+
+[plugin:content-inject](../course-not-showing)
