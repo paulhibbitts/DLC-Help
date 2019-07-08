@@ -5,7 +5,7 @@ taxonomy:
 child_type: docs
 ---
 ## Getting Help
-Don’t get frustrated, get help! Email Colin Madland, TWU’s online learning and instructional technologies expert, to get help with how to use PressBooks: colin.madland@twu.ca. You can also make an appointment with him as a group, or individually, for some tutoring in using PressBooks. Please also feel free to email me, since I’ve gone through the experience of researching, writing, and setting up a page for Blake’s “The Lamb”: sara.pearson@twu.ca.
+Don’t get frustrated, get help! Email Colin Madland, TWU’s online learning and instructional technologies expert, to get help with how to use PressBooks: [colin.madland@twu.ca] (colin.madland@twu.ca). You can also make an appointment with him as a group, or individually, for some tutoring in using PressBooks. Please also feel free to email me, since I’ve gone through the experience of researching, writing, and setting up a page for Blake’s “The Lamb”: sara.pearson@twu.ca.
 
 ## Go to books.twu.ca.
 Sign in with the username and password that were emailed to you.
@@ -43,7 +43,7 @@ Place your cursor on the page where you want the image to appear.
 
 2. Click **"Upload Files."**
 
-3. Drop a file (audio, image) into the “drop files here” box, or click **"Select Files."** Your file must be less than 2MB.
+3. Drop a file (audio, image) into the **“drop files here”** box, or click **"Select Files."** Your file must be less than 2MB.
 
 4. Click **"Insert into post."**
 
