@@ -15,4 +15,4 @@ Then, click the **"Export Your Book"** button.
 
 The exported file will be displayed under the **"Latest Exports"** section. Hover over the file and click **"Download"**
 
-![](export2.png)
+![](export3.png)
