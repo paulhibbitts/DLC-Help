@@ -19,4 +19,10 @@ Click on any cell to enter content.
 
 ![](table3.png)
 
+![](table4.png)
+
 You may use the **"Table Manipulation"** menu to insert links and images, merge, hide, show, insert, delete or duplicate cells, as well as adding or deleting rows and columns.
+
+Lastly, click **"Save Changes"**
+
+![](table5.png)
