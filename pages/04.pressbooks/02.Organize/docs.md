@@ -5,7 +5,7 @@ taxonomy:
 child_type: docs
 ---
 
-You can organize your book according to your desired structure. To do so, go to **Dashboard** and click on **Organize**. Here you will be able to add multiple elements to your book, including:
+#### You can organize your book according to your desired structure. To do so, go to **Dashboard** and click on **Organize**. Here you will be able to add multiple elements to your book, including:
 
 - Front Matter:
   - Abstract
@@ -64,6 +64,6 @@ You can organize your book according to your desired structure. To do so, go to 
 ![](pressbooks-organize.PNG)
 
 
-You have the option to make your book available to the **Public** or keep it **Private**
+#### You have the option to make your book available to the **Public** or keep it **Private**
 
 ![](pressbooks-organize-2.PNG)
