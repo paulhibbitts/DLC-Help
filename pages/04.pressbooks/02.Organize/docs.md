@@ -7,7 +7,7 @@ child_type: docs
 
 #### You can organize your book according to your desired structure. To do so, go to **Dashboard** and click on **Organize**. Here you will be able to add multiple elements to your book, including:
 
-- Front Matter:
+- ##### Front Matter:
   - Abstract
   - Acknowledgements
   - Before Title Page
@@ -30,7 +30,7 @@ child_type: docs
   - Recommended Citation
   - Title Page
 
-- Back Matter:
+- ##### Back Matter:
   - About the Author
   - About the Publisher
   - Acknowledgements
@@ -57,7 +57,7 @@ child_type: docs
   - Suggested Reading
 
 
-- Chapters:
+- ##### Chapters:
   - Numberless
   - Standard
 
