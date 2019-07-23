@@ -17,7 +17,7 @@ Online Writing Sessions, live video conferencing sessions
 
 ### Online Writing sessions
 
-To book online writing sessions, visit [twu.ca/writing](twu.ca/writing) or [create.twu.ca/learningcommons](create.twu.ca/learningcommons)
+To book online writing sessions, visit **twu.ca/writing** or **create.twu.ca/learningcommons**
 
 ![](writing1.png)
 
