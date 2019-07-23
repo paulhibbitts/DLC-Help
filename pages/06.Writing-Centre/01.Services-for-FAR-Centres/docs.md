@@ -10,6 +10,7 @@ visible: true
   - Online Writing Sessions, live video conferencing sessions
   - WriteAway.ca, Online Writing Support, writing feedback within 48 hours    
 
+
 - Graduate:
 Online Writing Sessions, live video conferencing sessions
 
@@ -56,7 +57,7 @@ To access the appointment booking system, you will need to register your account
 
 ![](writing11.png)
 
-### Click on START OR JOIN ONLINE CONSULTATION.  
+### Click on **START OR JOIN ONLINE CONSULTATION**.  
 
 ![](writing12.png)
 
@@ -77,7 +78,8 @@ To access the appointment booking system, you will need to register your account
 ### Questions?
 
 Contact:
-     Emily Keery
-     Writing Centre Coordinator
-     writingcentre@twu.ca      
-     emily.keery@twu.ca
+
+      **Emily Keery**
+      *Writing Centre Coordinator*
+      writingcentre@twu.ca      
+      emily.keery@twu.ca
