@@ -6,14 +6,14 @@ taxonomy:
 child_type: docs
 visible: true
 ---
-- Undergraduate:
+- **Undergraduate**:
 
   - Online Writing Sessions, live video conferencing sessions
   - WriteAway.ca, Online Writing Support, writing feedback within 48 hours    
 
 
-- Graduate:
-Online Writing Sessions, live video conferencing sessions
+- **Graduate**:
+  - Online Writing Sessions, live video conferencing sessions
 
 
 ### Online Writing sessions
