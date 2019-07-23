@@ -79,7 +79,7 @@ To access the appointment booking system, you will need to register your account
 
 Contact:
 
-      **Emily Keery**
-      *Writing Centre Coordinator*
-      writingcentre@twu.ca      
-      emily.keery@twu.ca
+    Emily Keery
+    Writing Centre Coordinator
+    writingcentre@twu.ca      
+    emily.keery@twu.ca
