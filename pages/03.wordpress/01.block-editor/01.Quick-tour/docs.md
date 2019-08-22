@@ -6,7 +6,7 @@ child_type: docs
 ---
 
 
-The block editor allows you to create posts in a different way than the classic editor. It allows you to create more complex post layouts in WordPress. But first, lets go over a quick tour of the interface:
+#### The block editor allows you to create posts in a different way than the classic editor. It allows you to create more complex post layouts in WordPress. But first, lets go over a quick tour of the interface:
 
 ![](tempsnip.png)
 

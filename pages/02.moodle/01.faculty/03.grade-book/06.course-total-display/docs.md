@@ -18,6 +18,6 @@ You can easily and quickly change the way the Course total is displayed in your 
 
 ![](grade-display-3.png)
 
-Then scroll down and click 'Save changes'.
+##### Then scroll down and click 'Save changes'.
 
 !! Please note that you should ONLY use one of the 'Letter' options if your grading scale matches the TWU Undergraduate Grading scale.
