@@ -7,7 +7,7 @@ child_type: docs
 
 If you do not have a portfolio site of your own, please follow these instructions.
 
-If you already have a site, skip to the next step.
+If you already have a site, skip to the next step by tapping the arrow on the right side of the page.
 
 # Sign in to WordPress
 
