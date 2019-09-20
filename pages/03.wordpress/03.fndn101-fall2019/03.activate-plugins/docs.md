@@ -18,6 +18,10 @@ child_type: docs
 ![](plugins-2.png)
 ![](plugins-3.png)
 
+This will give you a 'TWU Portfolio' link in your dashboard.
+
+![](plugins-4.png)
+
 # Activate a TWU Theme...
 
 Click the right arrow on this page.
