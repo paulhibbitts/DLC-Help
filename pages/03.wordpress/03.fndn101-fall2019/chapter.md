@@ -9,5 +9,6 @@ child_type: docs
 
 # Fall 2019  
 
+---
 
 Click the arrow on the right side of this page to get started.
