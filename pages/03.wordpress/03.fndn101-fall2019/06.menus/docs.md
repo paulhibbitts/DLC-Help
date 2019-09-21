@@ -17,14 +17,13 @@ If you have already created a menu, your old menu will still be there, but it ma
 ! The menu may already be selected...
 
 ![](menu-2.png)
+![](menu-3.png)
 
 # Edit 'Menu Settings'
 
 - Select 'Primary Menu'
 - Tap 'Save Menu'
 
-
-![](menu-3.png)
 ![](menu-4.png)
 
 !! Do NOT select 'Automatically add new top-level pages to this menu'.

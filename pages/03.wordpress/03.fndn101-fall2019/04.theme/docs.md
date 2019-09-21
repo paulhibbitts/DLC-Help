@@ -14,6 +14,8 @@ child_type: docs
 
 This will give you some help resources under 'TWU Create' in the top bar of your site.
 
+!!!! Please use these resources! 
+
 ![](theme-2.png)
 
 # Import the site structure for FNDN 101
