@@ -30,4 +30,4 @@ If you have already created a menu, your old menu will still be there, but it ma
 
 
 
-Once you have followed these steps, please go to the [TWU E-Portfolios](https://create.twu.ca/eportfolios/) site and start making your site your own!
+!!!! Once you have followed these steps, please go to the [TWU E-Portfolios](https://create.twu.ca/eportfolios/) site and start making your site your own!
