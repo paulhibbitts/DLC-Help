@@ -11,9 +11,8 @@ If you already have a site, skip to the next step by tapping the arrow on the ri
 
 # Sign in to WordPress
 
-### Go to [https://create.twu.ca](https://create.twu.ca)
-
-### Tap 'Log in'
+- Go to [https://create.twu.ca](https://create.twu.ca)
+- Tap 'Log in'
 
 ![](new-site-1.png)
 
