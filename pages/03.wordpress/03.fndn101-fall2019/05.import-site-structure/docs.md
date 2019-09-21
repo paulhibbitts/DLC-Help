@@ -43,6 +43,10 @@ This will download a file called `twuportfoliofix.xml`.
 
 ![](import-6.png)
 
+You should see a message to 'Have fun!'
+
+![](import-7.png)
+
 # Check your menus...
 
 Click the arrow on the right side of this page.
