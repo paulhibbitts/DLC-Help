@@ -31,5 +31,18 @@ This will download a file called `twuportfoliofix.xml`.
 ![](import-4.png)
 
 - choose the `twuportfoliofix.xml` file
+- tap 'Upload file and import'
 
 ![](import-5.png)
+
+# Assign authors
+
+- use the dropdown menus to choose your own username as author on all three 'Import Authors'
+- select 'Download and import file attachments'
+- tap 'Submit'
+
+![](import-6.png)
+
+# Check your menus...
+
+Click the arrow on the right side of this page.
