@@ -41,7 +41,7 @@ This will download a file called `twuportfoliofix.xml`.
 - select 'Download and import file attachments'
 - tap 'Submit'
 
-![](import-6.png)
+![](import-6b.png)
 
 You should see a message to 'Have fun!'
 
