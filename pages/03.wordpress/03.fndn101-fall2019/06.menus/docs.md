@@ -22,6 +22,9 @@ If you have already created a menu, your old menu will still be there, but it ma
 # Edit 'Menu Settings'
 
 - Select 'Primary Menu'
+
+!!!! Your options might say 'Header', or 'Main Menu', or 'Top'. These should all be the same as 'Primary Menu'.
+
 - Tap 'Save Menu'
 
 !! Do NOT select 'Automatically add new top-level pages to this menu'.
