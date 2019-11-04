@@ -11,7 +11,7 @@ visible: true
 
 #### From the 'Actions' menu, select 'Manual grading'.
 
-![](answerquizzes-2.png)
+![](answerquizzes-5.png)
 
 #### Click 'Grade all'.
 
