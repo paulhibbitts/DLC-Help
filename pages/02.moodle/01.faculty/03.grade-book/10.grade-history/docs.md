@@ -32,6 +32,8 @@ You may select more than one user at a time.
 
 ### Adjust the dates if needed, and click 'Submit'.
 
+You may also restrict the report to view only revised grades.
+
 ![](history-5.png)
 
 ### View the entire history of the grade item.
