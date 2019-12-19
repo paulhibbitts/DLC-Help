@@ -13,7 +13,7 @@ visible: true
 
 ![](imp-exp-2.png)
 
-#### Select 'Moodle XML format' and the quiz you want to export and click 'Export questions to file'
+#### Select 'Moodle XML format' and the category of questions (this should match the title of the quiz) you want to export and click 'Export questions to file'
 
 ![](imp-exp-3.png)
 
@@ -37,4 +37,4 @@ If you get a popup after this step asking you what to do with the file, save it 
 
 ![](imp-exp-7.png)
 
-! You can also use this import option to import quizzes and questions from publisher materials like test banks.
+!!! You can also use this import option to import quizzes and questions from publisher materials like test banks.
