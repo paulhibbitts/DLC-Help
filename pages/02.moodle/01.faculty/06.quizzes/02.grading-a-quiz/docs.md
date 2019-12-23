@@ -5,13 +5,19 @@ taxonomy:
 visible: true
 ---
 
+If you quiz contains items that cannot be graded automagically, you will have to grade those items manually.
+
+If your quiz contains a mixture of auto-graded and manually graded items, learners will not receive any feedback until you have completed the manual grading.
+
 ### Grading all responses to a short or long answer quiz
+
+Click the title of the quiz.
 
 ![](answerquizzes-1.png)
 
 #### From the 'Actions' menu, select 'Manual grading'.
 
-![](answerquizzes-2.png)
+![](answerquizzes-5.png)
 
 #### Click 'Grade all'.
 

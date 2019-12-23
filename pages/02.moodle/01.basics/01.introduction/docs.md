@@ -22,4 +22,4 @@ The first page you see in Moodle will be your Dashboard showing all of your curr
 
 ![](dashboard.png)
 
-!!! [Click here] if you don't see a course that you think you should see.
+!!! [Click here if you don't see a course that you think you should see](https://create.twu.ca/help/moodle/basics/course-not-showing).

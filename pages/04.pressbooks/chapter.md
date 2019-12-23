@@ -7,5 +7,3 @@ taxonomy:
 ### Using
 
 # PressBooks
-
-...also soon!
