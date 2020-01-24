@@ -7,5 +7,3 @@ taxonomy:
 ### Using
 
 # WordPress
-
-...soon!
