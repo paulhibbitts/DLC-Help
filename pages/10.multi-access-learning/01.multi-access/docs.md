@@ -7,7 +7,7 @@ child_type: docs
 visible: true
 ---
 
-In planning for various scenarios pertaining to situations which prevent physical access to TWU campuses, the TWU GLOBAL Online team has adopted a Multi-Access Learning Framework* to support a virtual presence for teaching and learning.
+In planning for various scenarios pertaining to situations which prevent physical access to TWU campuses, the TWU GLOBAL Online team has adopted a Multi-Access Learning Framework (Irvine, 2009; Irvine, Code, & Richards, 2013) to support a virtual presence for teaching and learning.
 
 This model is being suggested to assist TWU faculty as they attempt to balance between meeting the needs of on-campus learners with remote, isolated learners who are not able to access physical resources on one of our campuses. Remote or isolated learners and faculty may still access learning resources via Moodle – TWU’s Learning Management System (LMS) and with only a little preparation, teaching and learning activities can be shifted online and course access modes can be merged to enable learner choice and agency.
 
@@ -22,6 +22,8 @@ For shorter term interruptions to a physical campus, faculty might only need to 
 - [Creating Assignment Dropboxes in Moodle](http://create.twu.ca/help/moodle/faculty/activity-or-resource/creating-an-assignment-dropbox)
 - [Creating discussion forums](https://create.twu.ca/help/moodle/faculty/activity-or-resource/creating-a-forum)
 - [Creating reading lists using EBSCO Curriculum Builder](http://create.twu.ca/help/moodle/faculty/activity-or-resource/ebsco-curriculum-builder)
+- [Sending messages to your whole class.](https://create.twu.ca/help/moodle/faculty/participants/sending-mass-messages)
+- [Using Moodle to track attendance.](http://create.twu.ca/help/moodle/faculty/activity-or-resource/attendance-activity)
 
 ### Using web-conferencing tools to connect synchronously
 ##### BlueJeans
@@ -40,7 +42,7 @@ TWU provides central management of Zoom for web-conferencing.
 ##### Other services
 There are several other options for faculty who may have already established means of synchronous communication such as Skype, FaceTime, Google Hangouts, Slack, Discord, etc. Our ability to troubleshoot these services will be very limited.
 
-### Access files through Microsoft OneDrive
+### Access TWU files through Microsoft OneDrive
 TWU has provided access to MS Office 365 to all learners, faculty, and staff. This access includes storing files in MS OneDrive, which is accessible from any device connected to the web.
 
 ### Use Audacity to record and edit audio files.
@@ -50,6 +52,9 @@ TWU has provided access to MS Office 365 to all learners, faculty, and staff. Th
 
 !! We are here to help, contact us at: elearning@twu.ca or, even better, drop by in the OARS offices on the 2nd floor of Reimer.
 
-> Irvine, Valerie & Code, Jillianne & Richards, Luke. (2013). Realigning higher education for multi-access learning: 21st-century learner need for control. *Journal of Online Learning and Teaching. 9*.
+### References
+> Irvine, V. (2009). The Emergence of Choice in “Multi-Access” Learning Environments: Transferring Locus of Control of Course Access to the Learner (G. Siemens & C. Fulford, Eds.; pp. 746–752). *Association for the Advancement of Computing in Education (AACE).*  
+> Irvine, V., Code, J., & Richards, L. (2013). Realigning higher education for the 21st-century learner through multi-access learning. *Journal of Online Learning and Teaching, 9*(2). http://jolt.merlot.org/vol9no2/irvine_0613.htm
 
-![](irvine_fig1.jpg)
+
+![Multi-Access Learning Model](irvine_fig1.jpg)
