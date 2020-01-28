@@ -16,11 +16,10 @@ The process of showing your course to students once you are ready is very simple
 ![](show-hide-1.png)
 
 ### Change the 'Course visibility' to 'Show'.
+- also ensure that the `Course start date` and `Course end date` align with the current semester.
 
 ![](show-hide-2.png)
 
 ### Scroll to the bottom and click 'Save and display'.
 
 ![](show-hide-3.png)
-
-!!!! If you follow these instructions and your course is still not visible, check the [Start and End dates](https://create.twu.ca/help/moodle/faculty/organization/course-start-end-dates).
