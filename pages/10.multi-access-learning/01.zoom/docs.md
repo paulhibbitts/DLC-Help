@@ -32,7 +32,10 @@ TWU provides central management of BlueJeans for web-conferencing.
 ##### zoom.us
 TWU provides central management of Zoom for web-conferencing.
 - [Tap or click here to create a ticket to gain access to Zoom.](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/Requests/ServiceDet?ID=14119). Please make sure you specify that you would like access to Zoom.
-- [Tap of click here to access Zoom support for getting started.](https://support.zoom.us/hc/en-us/articles/201362033-Getting-Started-on-Windows-and-Mac)
+
+[plugin-youtube](https://www.youtube.com/watch?v=vFhAEoCF7jg&feature=emb_logo)
+
+[plugin-youtube](https://www.youtube.com/watch?v=AYzPS28rg7E&feature=emb_logo)
 
 ##### Other services
 There are several other options for faculty who may have already established means of synchronous communication such as Skype, FaceTime, Google Hangouts, Slack, Discord, etc. Our ability to troubleshoot these services will be very limited.
