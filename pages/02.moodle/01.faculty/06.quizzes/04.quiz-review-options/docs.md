@@ -16,15 +16,19 @@ Step 2. Click on the name and/or topic your seeking to change.
 
 ![](MUSI-3.png)
 
+
+
+![](MUSI-4.png)
+
 Step 3. Click on the "Settings Icon" in the top right corner.
 
 Step 4. Select "Edit Settings"
 
-![](MUSI-4.png)
+
+![](MUSI-5.png)
 
 Step 5. Click on "Review Options"
 
-![](MUSI-5.png)
 
 Step 6. Select "The Attempt", "Marks",and "Overall Feedback"
 
