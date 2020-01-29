@@ -8,7 +8,7 @@ visible: true
 These are the steps that should be show or hide marks for a quiz on moodle.
 ![](MUSI-1.png)
 
-Step 1. Select "Quizzes:in the top right corner.
+Step 1. Select "Quizzes" in the top right corner.
 
 ![](MUSI-2.png)
 
