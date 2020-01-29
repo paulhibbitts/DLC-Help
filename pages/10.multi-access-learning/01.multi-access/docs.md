@@ -32,8 +32,8 @@ TWU provides central management of BlueJeans for web-conferencing.
 - [Tap of click here to access BlueJeans support for getting started.](https://support.bluejeans.com/s/getting-started-meetings-user-step-1)
 
 ##### zoom.us
-TWU provides central management of Zoom for web-conferencing.
-- [Tap or click here to create a ticket to gain access to Zoom.](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/Requests/ServiceDet?ID=14119). Please make sure you specify that you would like access to Zoom.
+TWU is reviewing contracts related to using Zoom for web-conferencing.
+- [Tap or click here to create a personal account on Zoom (limited to 45 minutes)](https://zoom.us/signup)
 
 [plugin:youtube](https://www.youtube.com/watch?v=vFhAEoCF7jg)
 
@@ -44,6 +44,11 @@ There are several other options for faculty who may have already established mea
 
 ### Access TWU files through Microsoft OneDrive
 TWU has provided access to MS Office 365 to all learners, faculty, and staff. This access includes storing files in MS OneDrive, which is accessible from any device connected to the web.
+- [Tap or click here to access OneDrive.](https://portal.office.com)
+
+### Access TWU files through VPN
+TWU provides VPN access to files so you can access from any device connected to the web.
+- 
 
 ### Use Audacity to record and edit audio files.
 [Audacity](https://www.audacityteam.org/) is a free and open source audio recording and editing tool. You may want to record snippets of audio, or even a longer 'lecture' to send to your learners.
