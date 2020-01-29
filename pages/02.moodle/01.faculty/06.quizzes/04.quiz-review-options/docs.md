@@ -16,11 +16,10 @@ Step 2. Click on the name and/or topic your seeking to change.
 
 ![](MUSI-3.png)
 
-
+Step 3. Click on the "Settings Icon" in the top right corner.
 
 ![](MUSI-4.png)
 
-Step 3. Click on the "Settings Icon" in the top right corner.
 
 Step 4. Select "Edit Settings"
 
