@@ -30,9 +30,11 @@ Step 4. Select "Edit Settings"
 Step 5. Click on "Review Options"
 
 
-Step 6. Select "The Attempt", "Marks",and "Overall Feedback"
-
 
 ![](MUSI-6.png)
+
+
+Step 6. Select "The Attempt", "Marks",and "Overall Feedback"
+
 
 Step 7. Select "Save and Display"
