@@ -12,5 +12,3 @@ These are the steps that should be show or hide marks for a quiz on moodle.
 ![](MUSI-4.png)
 ![](MUSI-5.png)
 ![](MUSI-6.png)
-
-lksdlkfslkj
