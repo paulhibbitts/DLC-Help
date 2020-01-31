@@ -5,14 +5,11 @@ taxonomy:
 visible: true
 ---
 
-###These are the steps that should be used to show or hide marks for a quiz on moodle.
+These are the steps that should be used to show or hide marks for a quiz on Moodle.
 
+### Click the link to the quiz you would like to edit.
 
 ![](MUSI-1.png)
-
-### Select "Quizzes" in the top right corner.
-
-###If your unable to see the activities bar click on the course quiz link
 
 
 ![](MUSI-2.png)
