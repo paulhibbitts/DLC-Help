@@ -24,7 +24,7 @@ For shorter term interruptions to a physical campus, faculty might only need to 
 - [Creating reading lists using EBSCO Curriculum Builder](http://create.twu.ca/help/moodle/faculty/activity-or-resource/ebsco-curriculum-builder)
 - [Sending messages to your whole class.](https://create.twu.ca/help/moodle/faculty/participants/sending-mass-messages)
 - [Using Moodle to track attendance.](http://create.twu.ca/help/moodle/faculty/activity-or-resource/attendance-activity)
-- [Accessing logs in Moodle]()
+- [Accessing logs in Moodle](https://create.twu.ca/help/moodle/faculty/participants/view-course-logs)
 
 ### Using web-conferencing tools to connect synchronously
 ##### BlueJeans
