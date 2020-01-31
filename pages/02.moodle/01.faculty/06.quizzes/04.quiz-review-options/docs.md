@@ -12,28 +12,28 @@ These are the steps that should be used to show or hide marks for a quiz on mood
 
 ![](MUSI-2.png)
 
-Step 2. Click on the name and/or topic your seeking to change.
+###. Click on the name and/or topic your seeking to change.
 
 ![](MUSI-3.png)
 
-Step 3. Click on the "Settings Icon" in the top right corner.
+### Click on the "Settings Icon" in the top right corner.
 
 ![](MUSI-4.png)
 
 
-Step 4. Select "Edit Settings"
+### Select "Edit Settings"
 
 
 ![](MUSI-5.png)
 
-Step 5. Click on "Review Options"
+### Click on "Review Options"
 
 
 
 ![](MUSI-6.png)
 
 
-Step 6. Select "The Attempt", "Marks",and "Overall Feedback"
+### Select "The Attempt", "Marks",and "Overall Feedback"
 
 
-Step 7. Select "Save and Display"
+### Select "Save and Display"
