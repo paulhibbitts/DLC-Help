@@ -22,7 +22,6 @@ visible: true
 
 
 
-
 ### Click on "Review Options"
 ![](MUSI-5.png)
 
