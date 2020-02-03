@@ -9,31 +9,29 @@ visible: true
 
 ### Go to the quiz the that your seeking to change.
 
+### Click on the name and/or topic your seeking to change.
 
 ![](MUSI-2.png)
 
-### Click on the name and/or topic your seeking to change.
-
-![](MUSI-3.png)
 
 ### Click on the "Settings Icon" in the top right corner.
+![](MUSI-3.png)
 
+### Select "Edit Settings"
 ![](MUSI-4.png)
 
 
-### Select "Edit Settings"
 
-
-![](MUSI-5.png)
 
 ### Click on "Review Options"
+![](MUSI-5.png)
 
 
-
-![](MUSI-6.png)
 
 
 ### Select "The Attempt", "Marks",and "Overall Feedback"
+![](MUSI-6.png)
+
 
 
 ### Select "Save and Display"
