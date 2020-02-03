@@ -7,9 +7,7 @@ visible: true
 
 These are the steps that should be used to show or hide marks for a quiz on Moodle.
 
-### Click the link to the quiz you would like to edit.
-
-![](MUSI-1.png)
+### Go to the quiz the that your seeking to change.
 
 
 ![](MUSI-2.png)
