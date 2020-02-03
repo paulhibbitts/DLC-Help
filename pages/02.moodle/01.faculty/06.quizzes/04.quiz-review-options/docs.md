@@ -11,7 +11,9 @@ visible: true
 ### Go to the quiz the that your seeking to change.
 
 
-### Click on the name and/or topic your seeking to change.
+
+
+### Click on the "name and/or topic" your seeking to change.
 
 ![](MUSI-2.png)
 
