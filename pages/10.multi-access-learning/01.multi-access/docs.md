@@ -60,7 +60,7 @@ TWU provides VPN access to files so you can access from any device connected to 
 
 ### References
 > Irvine, V. (2009). The Emergence of Choice in “Multi-Access” Learning Environments: Transferring Locus of Control of Course Access to the Learner (G. Siemens & C. Fulford, Eds.; pp. 746–752). *Association for the Advancement of Computing in Education (AACE).*  
-> <br>
+<br>
 > Irvine, V., Code, J., & Richards, L. (2013). Realigning higher education for the 21st-century learner through multi-access learning. *Journal of Online Learning and Teaching, 9*(2). http://jolt.merlot.org/vol9no2/irvine_0613.htm
 
 
