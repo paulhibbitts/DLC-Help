@@ -20,7 +20,7 @@ It is important to note that all members of the TWU community will be under high
 It is worth thinking about how prepared your learners are for moving online. We have created a brief 2-minute survey that we would be happy to share with you so that you can get some basic data on what to expect from your students. If you would like to deploy this survey with your students, please email [colin.madland@twu.ca](mailto:colin.madland@twu.ca).
 
 [details="Click to view Survey"]
-<script>(function(t,e,s,n){var o,a,c;t.SMCX=t.SMCX||[],e.getElementById(n)||(o=e.getElementsByTagName(s),a=o[o.length-1],c=e.createElement(s),c.type="text/javascript",c.async=!0,c.id=n,c.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/tRaiETqnLgj758hTBazgd5IivfPEhj_2FUp_2BRFniVOKyoRCFlFMcbs0GeDSh5Bwm9J.js"].join(""),a.parentNode.insertBefore(c,a))})(window,document,"script","smcx-sdk");</script>
+<https://www.surveymonkey.ca/r/73HZ3GS>
 [/details]
 
 There are also some things you can do ahead of any significant disruption to ensure that your learners know where to access course materials. The easiest way to manage this is to use the Moodle site that is automatically provisioned for every for-credit course offered in every semester at TWU. Keep in mind that you do not need to worry about designing a fully online course. All you need to do is to create a repository where you can communicate with learners and exchange files.
