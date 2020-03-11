@@ -1,5 +1,5 @@
 ---
-title: Access TWU Files
+title: Accessing Trinity Western Files
 taxonomy:
     category:
         - docs
