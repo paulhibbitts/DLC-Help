@@ -1,12 +1,11 @@
 ---
-title: Use Moodle
+title: Suggestions
 taxonomy:
     category:
         - docs
 child_type: docs
 visible: true
 ---
-
 ### Using Moodle
 TWU provisions a Moodle site for every course that is offered for credit in every semester. Faculty do not need to do anything beyond logging into Moodle to access the site for their courses. We have listed below several tutorials designed to guide faculty through the process of setting up a minimal presence in Moodle to enable courses to proceed with minimal interruption while access to a TWU campus may be compromised for any reason (weather, illness, power loss, etc).
 
