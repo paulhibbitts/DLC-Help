@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Suggestions
 taxonomy:
     category:
         - docs
