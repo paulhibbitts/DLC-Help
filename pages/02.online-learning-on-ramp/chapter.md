@@ -14,3 +14,5 @@ Remember that you can always practice good hygiene etiquette by:
 - Not sharing food or utensils with others
 - Using proper coughing or sneezing etiquette (cough/sneeze into elbow or tissue, not hand)
 - Staying home when sick
+
+! This is an evolving set of resources...
