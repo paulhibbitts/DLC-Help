@@ -7,6 +7,8 @@ child_type: docs
 visible: true
 ---
 
+<!--- Do not delete or move this file! it is linked to an email that went out to faculty. --->
+
 In planning for various scenarios pertaining to situations which prevent physical access to TWU campuses, the TWU GLOBAL Online team has adopted a Multi-Access Learning Framework (Irvine, 2009; Irvine, Code, & Richards, 2013) to support a virtual presence for teaching and learning.
 
 This model is being suggested to assist TWU faculty as they attempt to balance between meeting the needs of on-campus learners with remote, isolated learners who are not able to access physical resources on one of our campuses. Remote or isolated learners and faculty may still access learning resources via Moodle – TWU’s Learning Management System (LMS) and with only a little preparation, teaching and learning activities can be shifted online and course access modes can be merged to enable learner choice and agency.
