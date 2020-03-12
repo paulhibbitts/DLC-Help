@@ -2,6 +2,7 @@
 title: Technological Requirements
 taxonomy:
     category: docs
+published: false
 ---
 
 Many courses at TWU require that learners have access to basic computer hardware and software.
