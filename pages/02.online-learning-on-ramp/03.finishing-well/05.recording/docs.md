@@ -4,7 +4,7 @@ taxonomy:
     category:
         - docs
 child_type: docs
-visible: true
+visible: false
 ---
 
 ### Use Audacity to record and edit audio files.

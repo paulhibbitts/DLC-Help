@@ -4,7 +4,7 @@ taxonomy:
     category:
         - docs
 child_type: docs
-visible: true
+visible: false
 ---
 
 Another way to present content online is to use audio and visual tools.  

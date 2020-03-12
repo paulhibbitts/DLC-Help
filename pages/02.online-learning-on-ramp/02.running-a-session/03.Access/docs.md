@@ -4,7 +4,7 @@ taxonomy:
     category:
         - docs
 child_type: docs
-visible: true
+visible: false
 ---
 
 ### Access TWU files through Microsoft OneDrive

@@ -1,7 +1,7 @@
 ---
-title: Multi-Access
+title: Running and Class Session
 taxonomy:
     category: docs
 ---
 
-#Multi-Access Learning
+...in progress
