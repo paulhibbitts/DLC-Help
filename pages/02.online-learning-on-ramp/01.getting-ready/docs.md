@@ -50,3 +50,4 @@ While you can technically upload PDF articles to Moodle, creating a reading list
 The assignment tool in Moodle is very robust and allows for a completely digital workflow. You can create assignment dropboxes in Moodle that will allow you to communicate the details of the assignment to students, set due dates (optional, please consider that your learners lives have been significantly disrupted and due dates may be better framed as 'suggested targets'), gather assignment files as MS Word, PDF, Excel, or other filetypes.
 
 - [Creating Assignment Dropboxes in Moodle](http://create.twu.ca/help/moodle/faculty/activity-or-resource/creating-an-assignment-dropbox)
+- [Grading assignments in Moodle](https://create.twu.ca/help/moodle/faculty/grade-book/grade-assignment)
