@@ -1,5 +1,5 @@
 ---
-title: 'Getting Ready'
+title: 'Moodle Set-up'
 taxonomy:
     category:
         - docs
@@ -7,7 +7,6 @@ child_type: docs
 visible: true
 ---
 
-### What can you do to get ready for possible disruption?
 
 ##### Basic Moodle Preparation
 There are also some things you can do ahead of any significant disruption to ensure that your learners know where to access course materials. The easiest way to manage this is to use the Moodle site that is automatically provisioned for every for-credit course offered in every semester at TWU. Keep in mind that you do not need to worry about designing a fully online course. All you need to do is to create a repository where you can communicate with learners and exchange files.

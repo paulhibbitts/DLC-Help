@@ -23,3 +23,9 @@ It is worth thinking about how prepared your learners are for moving online. We 
 
 
 <https://www.surveymonkey.ca/r/73HZ3GS>
+
+- student access to moodle
+- S notification
+- sample bluejeans session
+- test email - have S respond
+- communication preferences - how to contact me

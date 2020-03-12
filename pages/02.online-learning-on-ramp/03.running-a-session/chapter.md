@@ -1,5 +1,5 @@
 ---
-title: Running and Class Session
+title: Running a Class Session
 taxonomy:
     category: docs
 ---
