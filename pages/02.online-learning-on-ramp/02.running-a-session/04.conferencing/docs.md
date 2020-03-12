@@ -28,3 +28,5 @@ TWU is reviewing contracts related to using Zoom for web-conferencing.
 
 ##### Other services
 There are several other options for faculty who may have already established means of synchronous communication such as Skype, FaceTime, Google Hangouts, Slack, Discord, etc. Our ability to troubleshoot these services will be very limited.
+
+! If your students are to give **Class Presentations**, consider using video conferencing.  Students can share their screens of their notes/PowerPoints.  Sessions can be recorded for feedback purposes.
