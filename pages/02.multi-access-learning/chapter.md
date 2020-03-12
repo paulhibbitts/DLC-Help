@@ -1,5 +1,5 @@
 ---
-title: Multi-Access Learning
+title: 'Multi-Access Learning'
 taxonomy:
     category: docs
 ---

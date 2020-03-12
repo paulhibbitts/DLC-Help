@@ -1,5 +1,5 @@
 ---
-title: Web Conferencing
+title: 'Other Web Tools'
 taxonomy:
     category: docs
 ---

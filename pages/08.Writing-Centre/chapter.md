@@ -1,5 +1,5 @@
 ---
-title: Writing Centre
+title: 'Writing Centre'
 taxonomy:
     category: docs
 ---
