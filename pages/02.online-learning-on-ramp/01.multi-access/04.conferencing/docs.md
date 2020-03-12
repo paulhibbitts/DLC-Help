@@ -1,11 +1,12 @@
 ---
-title: Using Video Conferencing
+title: 'Using Video Conferencing'
 taxonomy:
     category:
         - docs
 child_type: docs
 visible: true
 ---
+
 ### Using web-conferencing tools to connect synchronously
 ##### BlueJeans
 TWU provides central management of BlueJeans for web-conferencing.
