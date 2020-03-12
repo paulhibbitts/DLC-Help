@@ -7,6 +7,11 @@ child_type: docs
 visible: true
 ---
 
+Video conferencing is a great way to connect with students online. Consider having weekly sessions, allowing time to teach content, explain assignments, facilitate student discussions, and assess students (presentations, etc.)
+
+! Note that you can record these sessions and post them to Moodle so students can access the recordings.
+
+
 ### Using web-conferencing tools to connect synchronously
 ##### BlueJeans
 TWU provides central management of BlueJeans for web-conferencing.
@@ -23,3 +28,5 @@ TWU is reviewing contracts related to using Zoom for web-conferencing.
 
 ##### Other services
 There are several other options for faculty who may have already established means of synchronous communication such as Skype, FaceTime, Google Hangouts, Slack, Discord, etc. Our ability to troubleshoot these services will be very limited.
+
+! If your students are to give **Class Presentations**, consider using video conferencing.  Students can share their screens of their notes/PowerPoints.  Sessions can be recorded for feedback purposes.
