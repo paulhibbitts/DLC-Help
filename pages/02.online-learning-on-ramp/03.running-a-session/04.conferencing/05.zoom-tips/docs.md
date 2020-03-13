@@ -17,7 +17,7 @@ This checklist is not intended to be a replacement for the platform vendor’s o
 After you read through this checklist, make it your own by deleting, adding, and otherwise modifying it to suit your own needs and goals.
 
 #### Create & Share Your Session Details
-- [] Create your live session on the platform of your choice. Follow Zoom’s directions for scheduling meetings (“Web” for basic directions), or directions from your selected platform.
+- [ ] Create your live session on the platform of your choice. Follow Zoom’s directions for scheduling meetings (“Web” for basic directions), or directions from your selected platform.
 
 Share your session link with students. Users can join by computer and telephone (Zoom also has a mobile app). Remind students of any work that should be completed to prepare for the session.
 

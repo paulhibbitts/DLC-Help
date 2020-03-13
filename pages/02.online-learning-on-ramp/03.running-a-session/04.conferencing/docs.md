@@ -24,7 +24,8 @@ TWU provides central management of BlueJeans for web-conferencing.
 - [Tap of click here to access BlueJeans support for getting started.](https://support.bluejeans.com/s/getting-started-meetings-user-step-1)
 
 ##### zoom.us
-You can now (as of 4:00pm, thursday, March 12) go to [twu.zoom.us]()
+You can now (as of 4:00pm, Thursday, March 12) go to [twu.zoom.us](https://twu.zoom.us) and sign in using your TWUPass credentials.
+
 [plugin:youtube](https://www.youtube.com/watch?v=vFhAEoCF7jg)
 
 [plugin:youtube](https://www.youtube.com/watch?v=AYzPS28rg7E)
