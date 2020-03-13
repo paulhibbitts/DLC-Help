@@ -8,9 +8,9 @@ visible: true
 show_page_title: false
 ---
 
-# **💻 Delivering a Final Exam Online**
 
-_The following is based on Paul Hibbitts' experiences of delivering an online final exam using the Canvas LMS for his [CMPT-363 User Interface Design course](https://canvas.sfu.ca/courses/47119) at [Simon Fraser University](https://www.sfu.ca/) in December 2019 due to a pending region-wide public transit strike in Vancouver, BC. Your mileage may vary._
+
+> _The following is based on Paul Hibbitts' experiences of delivering an online final exam using the Moodle LMS for his [CMPT-363 User Interface Design course](https://canvas.sfu.ca/courses/47119) at [Simon Fraser University](https://www.sfu.ca/) in December 2019 due to a pending region-wide public transit strike in Vancouver, BC. Your mileage may vary._
 
 ## Initial Steps
 
@@ -33,14 +33,14 @@ _The following is based on Paul Hibbitts' experiences of delivering an online fi
 
 ## Delivery
 
-*   The [Quiz feature](https://community.canvaslms.com/docs/DOC-12943-4152724267) on the Canvas LMS (the LMS used at SFU) is quite capable of delivering an online final exam. Not only can you create a series of questions, but you can also only make the online final exam available with a set maximum duration and at a specific date/time. I choose a specific date/time as the final exam was already scheduled along with other final exams students had planned for. An open-book final exam is often also a prime candidate for a “take-home” style online final exam, and can reduce the stress that can come with possible technical issues related to online final exams.
-*   However long you estimate your online final exam for students to complete you will be underestimating how long it will likely take! Always error on the side of giving students too much time when it comes to an online final exam. Again, remember that for many of them this will be their first online final exam - under already stressful situations.
-*   Have a “Plan B” ready for students you for some reason cannot submit their final exam answers online using Canvas. This again highlights the importance of asking students to create a local document of their answers - if need be they can simply email this to you directly by the online final exam deadline. Be accomodating with these deadlines.
-*   Just like a face-to-face final exam, students may need clarifications with online final exam questions. Create a single [Discussion forum](https://community.canvaslms.com/docs/DOC-13016) in Canvas which you will monitor during the entire final exam and promptly answer any posted questions. Since this is a forum available to all students, once an inquiry has been answered other students can quickly also locate that information. Here is the discussion forum I created for my students (I actually got the sense of being more ‘present’ for my students using an online discussion board during the final exam, and quite enjoyed being more available to them throughout the exam): \
+*   The [Quiz feature](https://create.twu.ca/help/moodle/faculty/quizzes/creating-a-quiz) in Moodle is quite capable of delivering an online final exam. Not only can you create a series of questions, but you can also only make the online final exam available with a set maximum duration and at a specific date/time. I choose a specific date/time as the final exam was already scheduled along with other final exams students had planned for. An open-book final exam is often also a prime candidate for a “take-home” style online final exam, and can reduce the stress that can come with possible technical issues related to online final exams.
+*   However long you estimate your online final exam for students to complete you will be underestimating how long it will likely take! Always err on the side of giving students too much time when it comes to an online final exam. Again, remember that for many of them this will be their first online final exam - under already stressful situations.
+*   Have a “Plan B” ready for students you for some reason cannot submit their final exam answers online using Moodle. This again highlights the importance of asking students to create a local document of their answers - if need be they can simply email this to you directly by the online final exam deadline. Be accomodating with these deadlines.
+*   Just like a face-to-face final exam, students may need clarifications with online final exam questions. Create a single [Discussion forum](https://create.twu.ca/help/moodle/faculty/activity-or-resource/creating-a-forum) in Moodle which you will monitor during the entire final exam and promptly answer any posted questions. Since this is a forum available to all students, once an inquiry has been answered other students can quickly also locate that information. Here is the discussion forum I created for my students (I actually got the sense of being more ‘present’ for my students using an online discussion board during the final exam, and quite enjoyed being more available to them throughout the exam): \
 
 ![alt_text](Delivering-a1.png "Clarifications")
 
-*   Provide clear instructions for students on how they should proceed with the online final exam, such as creating a local word processing document to store all their answers and then copy/paste their answers onto the Canvas quiz itself. Here are the instructions I created for my students:
+*   Provide clear instructions for students on how they should proceed with the online final exam, such as creating a local word processing document to store all their answers and then copy/paste their answers onto the Moodle quiz itself. Here are the instructions I created for my students:
 
 ![alt_text](Delivering-a2.png "Exam Instructions")
 
