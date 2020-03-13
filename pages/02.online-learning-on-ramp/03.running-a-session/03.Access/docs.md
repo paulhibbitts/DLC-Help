@@ -1,5 +1,5 @@
 ---
-title: 'Accessing Trinity Western Files'
+title: 'Accessing NOAHSERV and Jenzabar'
 taxonomy:
     category:
         - docs
@@ -12,4 +12,8 @@ TWU has provided access to MS Office 365 to all learners, faculty, and staff. Th
 - [Tap or click here to access OneDrive.](https://portal.office.com)
 
 ### Access TWU files through VPN
-TWU provides VPN access to files so you can access from any device connected to the web.
+
+!! NOTE: VPN access to files should be limited to those who need to access NOAHSERV or Jenzabar.
+
+- All TWU-issued have the necessary software required to access servers via VPN.
+- For instructions to connect to the resources you need, please create a ticket at

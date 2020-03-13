@@ -11,11 +11,7 @@ Video conferencing is a great way to connect with students online. Consider havi
 
 ! Note that you can record these sessions and post them to Moodle so students can access the recordings.
 
-<!---
-<https://www.insidehighered.com/advice/2020/03/11/practical-advice-instructors-faced-abrupt-move-online-teaching-opinion>
 
-<https://twitter.com/celloyeil/status/1237773571113377792?s=20>
---->
 
 ### Using web-conferencing tools to connect synchronously
 ##### BlueJeans
