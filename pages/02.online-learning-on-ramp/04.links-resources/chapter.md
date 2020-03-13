@@ -1,5 +1,5 @@
 ---
-title: Finishing Well
+title: Links and Resources
 taxonomy:
     category: docs
 ---
