@@ -10,7 +10,7 @@ show_page_title: false
 
 
 
-> _The following is based on Paul Hibbitts' experiences of delivering an online final exam using the Moodle LMS for his [CMPT-363 User Interface Design course](https://canvas.sfu.ca/courses/47119) at [Simon Fraser University](https://www.sfu.ca/) in December 2019 due to a pending region-wide public transit strike in Vancouver, BC. Your mileage may vary._
+> _The following is based on Paul Hibbitts' experiences of delivering an online final exam using the Canvas LMS for his [CMPT-363 User Interface Design course](https://canvas.sfu.ca/courses/47119) at [Simon Fraser University](https://www.sfu.ca/) in December 2019 due to a pending region-wide public transit strike in Vancouver, BC. Your mileage may vary._
 
 ## Initial Steps
 
