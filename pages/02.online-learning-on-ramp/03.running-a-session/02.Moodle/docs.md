@@ -4,7 +4,7 @@ taxonomy:
     category:
         - docs
 child_type: docs
-visible: false
+visible: true
 ---
 
 ### Using Moodle
