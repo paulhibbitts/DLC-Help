@@ -4,7 +4,7 @@ taxonomy:
     category:
         - docs
 child_type: docs
-visible: true
+visible: false
 ---
 
 !! [Please check the announcement on the TWU website](https://www.twu.ca) for the latest updates regarding TWU's response to COVID-19.
