@@ -12,6 +12,9 @@ Video conferencing is a great way to connect with students online. Consider havi
 ! Note that you can record these sessions and post them to Moodle so students can access the recordings.
 
 <https://www.insidehighered.com/advice/2020/03/11/practical-advice-instructors-faced-abrupt-move-online-teaching-opinion>
+
+<https://twitter.com/celloyeil/status/1237773571113377792?s=20>
+
 ### Using web-conferencing tools to connect synchronously
 ##### BlueJeans
 TWU provides central management of BlueJeans for web-conferencing.
@@ -19,9 +22,7 @@ TWU provides central management of BlueJeans for web-conferencing.
 - [Tap of click here to access BlueJeans support for getting started.](https://support.bluejeans.com/s/getting-started-meetings-user-step-1)
 
 ##### zoom.us
-TWU is reviewing contracts related to using Zoom for web-conferencing.
-- [Tap or click here to create a personal account on Zoom (limited to 45 minutes)](https://zoom.us/signup)
-
+You can now (as of 4:00pm, thursday, March 12) go to [twu.zoom.us]()
 [plugin:youtube](https://www.youtube.com/watch?v=vFhAEoCF7jg)
 
 [plugin:youtube](https://www.youtube.com/watch?v=AYzPS28rg7E)
